@@ -1,0 +1,393 @@
+Sample_Type	Vendor_ID	Compound_Name	SMILES	Screened_Concentration	TruHit_Lum_Rep1	TruHit_Lum_Rep2	TruHit_Avg_Lum	TruHit_Zscore_Rep1	TruHit_Zscore_Rep2	Hit_Rep1	Hit_Rep2	Hit_both	Secondary_Screens_Hit_Type
+Primary Screen Hit	ChemBridge 36361706	4-(aminosulfonyl)-N-[1-(4-methyl-1H-imidazol-2-yl)ethyl]benzamide	S(N)(=O)(=O)c(cc1)ccc1C(=O)NC(C)c2[nH]cc(C)n2	533.3 uM	801989	916188	859088.5	-0.93	-0.12	Y	Y	Y	Peptide & Nucleosome
+Primary Screen Hit	ChemBridge 83147402	5-methoxy-N-[(6-methoxy-1H-benzimidazol-2-yl)methyl]-4-oxo-1,4-dihydropyridine-2-carboxamide	n(c(ccc(c1)OC)c1[nH]2)c2CNC(=O)C3=CC(C(OC)=CN3)=O	533.3 uM	966474	1012920	989697	2.45	1.61	Y	Y	Y	Peptide & Nucleosome
+Primary Screen Hit	ChemBridge 79042206	2-(3-biphenyl-4-yl-1,4,6,7-tetrahydro-5H-pyrazolo[4,3-c]pyridin-5-yl)-N-ethylacetamide	c(C1)(c(CCN1CC(NCC)=O)[nH]n2)c2c(cc3)ccc3c4ccccc4	533.3 uM	814433	879849	847141	-0.68	-0.76	Y	Y	Y	Peptide & Nucleosome
+Primary Screen Hit	ChemBridge 20405562	2-[(4-hydroxy-2-pyridin-2-ylpyrimidin-5-yl)carbonyl]-1,2,3,4-tetrahydroisoquinoline-3-carboxamide	N1(Cc(cccc2)c2CC1C(N)=O)C(=O)c(cnc(n3)c4ccccn4)c3O	533.3 uM	952033	969628	960830.5	2.15	0.83	Y	Y	Y	Peptide & Nucleosome
+Primary Screen Hit	ChemBridge 68847585	4-{1-[3-(3-ethyl-1,2,4-oxadiazol-5-yl)phenyl]-1H-imidazol-2-yl}pyridine	n1(ccnc1c(cc2)ccn2)c(cccc3c4onc(CC)n4)c3	533.3 uM	799947	893978	846962.5	-0.97	-0.51	Y	Y	Y	Peptide & Nucleosome
+Primary Screen Hit	ChemBridge 81872063	N-cyclopropyl-N'-{rac-(3R,4S)-4-[(3-methylisoxazol-5-yl)methyl]tetrahydrofuran-3-yl}-N-[(1-methyl-1H-pyrazol-4-yl)methyl]urea	C(=O)(N[C@H]1COC[C@H]1Cc(cc(n2)C)o2)N(Cc(c3)cn(n3)C)C4CC4	533.3 uM	916449	887522	901985.5	1.42	-0.63	Y	Y	Y	Peptide & Nucleosome
+Primary Screen Hit	ChemBridge 72802973	N-[2-(4-chlorophenoxy)ethyl]-2-ethyl-3-oxopiperazine-1-carboxamide	N1(CCNC(=O)C1CC)C(NCCOc(cc2)ccc2Cl)=O	533.3 uM	831151	867070	849110.5	-0.33	-0.99	Y	Y	Y	Peptide & Nucleosome
+Primary Screen Hit	ChemBridge 11356820	1-(5-methyl-1,3,4-thiadiazol-2-yl)-N-(pyridin-4-ylmethyl)-N-(tetrahydrofuran-2-ylmethyl)methanamine	c1(CN(CC2CCCO2)Cc(cc3)ccn3)sc(nn1)C	533.3 uM	840135	897061	868598	-0.15	-0.46	Y	Y	Y	Peptide & Nucleosome
+Primary Screen Hit	ChemBridge 67346361	2,3-dimethyl-5-phenyl-N-(1H-tetrazol-5-ylmethyl)pyrazolo[1,5-a]pyrimidin-7-amine	c1(c(C)c(n2)C)n2c(cc(c3ccccc3)n1)NCc([nH]nn4)n4	533.3 uM	977911	1023953	1000932	2.68	1.80	Y	Y	Y	Peptide & Nucleosome
+Primary Screen Hit	ChemBridge 76697906	4-{[4-(3-pyridin-3-ylpropanoyl)-1,4-diazepan-1-yl]carbonyl}pyridin-3-ol	C(=O)(N(CCCN1C(CCc(cccn2)c2)=O)CC1)c3ccncc3O	533.3 uM	841505	871755	856630	-0.12	-0.91	Y	Y	Y	Peptide & Nucleosome
+Primary Screen Hit	ChemBridge 46283052	5-isonicotinoyl-1-(4-methoxybenzyl)-4,5,6,7-tetrahydro-1H-pyrazolo[4,3-c]pyridine-3-carboxylic acid	c1(C2)c(CCN2C(c(cc3)ccn3)=O)n(nc1C(O)=O)Cc(cc4)ccc4OC	533.3 uM	753150	811744	782447	-1.94	-1.98	Y	Y	Y	Peptide & Nucleosome
+Primary Screen Hit	ChemBridge 16295086	3-(diphenylmethyl)-5-[2-(1H-tetrazol-5-yl)ethyl]-4,5,6,7-tetrahydro-1H-pyrazolo[4,3-c]pyridine	c12c(CCN(CCc([nH]nn3)n3)C1)[nH]nc2C(c4ccccc4)c5ccccc5	533.3 uM	812866	840062	826464	-0.71	-1.47	Y	Y	Y	Peptide & Nucleosome
+Primary Screen Hit	ChemBridge 49651708	N-{[4-(hydroxymethyl)tetrahydro-2H-pyran-4-yl]methyl}-N'-1H-indazol-6-yl-N-methylurea	C(=O)(Nc(ccc(c1[nH]2)cn2)c1)N(C)CC(CC3)(CCO3)CO	533.3 uM	712053	817689	764871	0.64	-0.18	Y	Y	Y	Peptide & Nucleosome
+Primary Screen Hit	ChemBridge 41719250	N-[4-(5-methyl-4H-1,2,4-triazol-3-yl)phenyl]-1-phenyl-1H-1,2,3-triazole-4-carboxamide	c(C(=O)Nc(cc1)ccc1c2[nH]c(nn2)C)(cn(n3)c4ccccc4)n3	533.3 uM	727041	830586	778813.5	1.37	0.13	Y	Y	Y	Peptide & Nucleosome
+Primary Screen Hit	ChemBridge 16777272	N-isopropyl-N'-[cis-4-(4-quinolinylmethyl)tetrahydro-3-furanyl]-4,6-pyrimidinediamine	c(N[C@H]1COC[C@H]1Cc2ccnc(cccc3)c23)(c4)ncnc4NC(C)C	533.3 uM	714706	764498	739602	0.77	-1.44	Y	Y	Y	Peptide & Nucleosome
+Primary Screen Hit	ChemBridge 39379054	N-(2-hydroxyethyl)-N'-{2-[(1S,9aR)-octahydro-2H-quinolizin-1-yl]ethyl}-N-(2-thienylmethyl)urea	C(NCC[C@@H]1CCCN2[C@]1([H])CCCC2)(=O)N(CCO)Cc3cccs3	533.3 uM	731736	851459	791597.5	1.60	0.63	Y	Y	Y	Peptide & Nucleosome
+Primary Screen Hit	ChemBridge 90512907	1-(2-methoxyethyl)-4-[(5,6,7,8-tetrahydropyrido[4',3':4,5]thieno[2,3-d]pyrimidin-4-ylamino)methyl]pyrrolidin-2-one dihydrochloride	c1(ncnc2NCC(CC(N3CCOC)=O)C3)c2c(c(C4)s1)CCN4	533.3 uM	782403	852916	817659.5	4.09	0.66	Y	Y	Y	Peptide & Nucleosome
+Primary Screen Hit	ChemBridge 11117948	N-[(3-tert-butyl-1H-pyrazol-5-yl)methyl]-N-methyl-N'-(2-oxopiperidin-3-yl)urea	C(=O)(N(C)Cc([nH]1)cc(n1)C(C)(C)C)NC2CCCNC2=O	533.3 uM	808940	852990	830965	5.38	0.66	Y	Y	Y	Peptide & Nucleosome
+Primary Screen Hit	ChemBridge 56369332	N-methyl-4-({methyl[(2-methyl-1,2,3,4-tetrahydro-3-isoquinolinyl)methyl]amino}methyl)benzenesulfonamide	S(NC)(=O)(=O)c1ccc(cc1)CN(C)CC2Cc(cccc3)c3CN2C	533.3 uM	671827	747238	709532.5	-1.33	-1.85	Y	Y	Y	Peptide & Nucleosome
+Primary Screen Hit	ChemBridge 34843398	N-methyl-N'-[2-(2-oxopiperidin-1-yl)ethyl]-N-[2-(pyrrolidin-1-ylmethyl)benzyl]urea	C(NCCN1CCCCC1=O)(=O)N(C)Cc2ccccc2CN3CCCC3	533.3 uM	662543	780588	721565.5	-1.78	-1.06	Y	Y	Y	Peptide & Nucleosome
+Primary Screen Hit	ChemBridge 88821393	1-[3-(2-pyridin-4-yl-1H-imidazol-1-yl)propyl]-1H-1,2,3-benzotriazole	n1n(CCCn2ccnc2c(cc3)ccn3)c4c(cccc4)n1	533.3 uM	939239	1026368	982803.5	-0.64	-0.58	Y	Y	Y	Peptide & Nucleosome
+Primary Screen Hit	ChemBridge 81292702	2-[(3,5-dimethylisoxazol-4-yl)methyl]-8-(pyridin-4-ylmethyl)-2,8-diazaspiro[4.5]decan-3-one	c(c1C)(c(C)on1)CN2CC(CC2=O)(CC3)CCN3Cc(cc4)ccn4	533.3 uM	971733	1048837	1010285	0.18	0.51	Y	Y	Y	Peptide & Nucleosome
+Primary Screen Hit	ChemBridge 69476781	5-[5-methyl-2-(1H-pyrazol-1-yl)benzyl]-4,5,6,7-tetrahydrothieno[3,2-c]pyridine-2-carboxylic acid	c(C1)(c2)c(CCN1Cc3cc(C)ccc3n4cccn4)sc2C(O)=O	533.3 uM	930301	1014985	972643	-0.86	-1.13	Y	Y	Y	Peptide & Nucleosome
+Primary Screen Hit	ChemBridge 85145676	2-[(2,6-dimethoxypyridin-3-yl)carbonyl]-1,2,3,4-tetrahydroisoquinolin-4-ol	N1(CC(O)c(c2C1)cccc2)C(=O)c3ccc(nc3OC)OC	533.3 uM	970036	1025640	997838	0.14	-0.61	Y	Y	Y	Peptide & Nucleosome
+Primary Screen Hit	ChemBridge 52883656	N-[3-methoxy-5-(1H-tetrazol-1-yl)phenyl]-2-(5-methyl-2-phenyl-1,3-oxazol-4-yl)acetamide	n1c(CC(=O)Nc(cc(OC)cc2n3cnnn3)c2)c(oc1c4ccccc4)C	533.3 uM	949792	1007314	978553	-0.37	-1.50	Y	Y	Y	Peptide & Nucleosome
+Primary Screen Hit	ChemBridge 97439664	2-(2-{[(2-ethyl-1,2,3,4-tetrahydroisoquinolin-3-yl)carbonyl]amino}ethyl)-1,3-thiazole-4-carboxylic acid	c1(C(O)=O)csc(CCNC(=O)C2Cc3c(CN2CC)cccc3)n1	533.3 uM	1012038	1040098	1026068	1.20	0.09	Y	Y	Y	Peptide & Nucleosome
+Primary Screen Hit	ChemBridge 97827997	N-(3-azepan-1-ylpropyl)-2-methoxy-N-methylpyrimidine-5-carboxamide	C(=O)(N(C)CCCN1CCCCCC1)c(cn2)cnc2OC	533.3 uM	911619	910713	911166	0.23	-1.43	Y	Y	Y	Peptide & Nucleosome
+Primary Screen Hit	ChemBridge 85076178	3-{(3R*,4S*)-1-[4-(ethylamino)pyrimidin-2-yl]-4-morpholin-4-ylpiperidin-3-yl}propan-1-ol	c1(nccc(NCC)n1)N(CC2)C[C@H]([C@H]2N(CC3)CCO3)CCCO	533.3 uM	930567	946212	938389.5	0.78	-0.65	Y	Y	Y	Peptide & Nucleosome
+Primary Screen Hit	ChemBridge 63206467	N-[(4-acetylmorpholin-2-yl)methyl]-4-[2-(1H-pyrazol-1-yl)ethyl]piperidine-1-carboxamide	C(=O)(NCC(OCCN1C(C)=O)C1)N2CCC(CC2)CCn3cccn3	533.3 uM	900794	958288	929541	-0.09	-0.38	Y	Y	Y	Peptide & Nucleosome
+Primary Screen Hit	ChemBridge 13201368	7-(pyridin-3-ylcarbonyl)-N-(2-pyridin-4-ylethyl)-5,6,7,8-tetrahydropyrido[3,4-d]pyrimidin-4-amine	N(CC1)(Cc(c12)ncnc2NCCc(cc3)ccn3)C(=O)c(cccn4)c4	533.3 uM	924769	1015450	970109.5	0.61	0.87	Y	Y	Y	Peptide & Nucleosome
+Primary Screen Hit	ChemBridge 14296223	1-isonicotinoyl-N-{2-[5-(tetrahydrofuran-2-yl)-1,2,4-oxadiazol-3-yl]ethyl}piperidin-4-amine	n1c(CCNC(CC2)CCN2C(c(cc3)ccn3)=O)noc1C4CCCO4	533.3 uM	953136	985186	969161	1.44	0.20	Y	Y	Y	Peptide & Nucleosome
+Primary Screen Hit	ChemBridge 23366600	(1S*,5R*)-3-(1H-imidazol-2-ylmethyl)-6-(1,3-thiazol-4-ylmethyl)-3,6-diazabicyclo[3.2.2]nonan-7-one	N1(Cc2cscn2)[C@H](CC[C@@H](CN3Cc4[nH]ccn4)C1=O)C3	533.3 uM	849472	899066	874269	-1.58	-1.68	Y	Y	Y	Peptide & Nucleosome
+Primary Screen Hit	ChemBridge 18222434	4-(1-hydroxy-2-phenylethyl)-N-[2-(2-methyl-1H-imidazol-1-yl)ethyl]piperidine-1-carboxamide	C(NCCn1ccnc1C)(=O)N2CCC(CC2)C(O)Cc3ccccc3	533.3 uM	917886	967797	942841.5	0.41	-0.18	Y	Y	Y	Peptide & Nucleosome
+Primary Screen Hit	ChemBridge 32128362	4-({4-[4-ethyl-5-(1H-pyrazol-1-ylmethyl)-4H-1,2,4-triazol-3-yl]piperidin-1-yl}methyl)pyridine	c1(Cn2cccn2)nnc(C(CC3)CCN3Cc(cc4)ccn4)n1CC	533.3 uM	934790	976157	955473.5	0.91	0.01	Y	Y	Y	Peptide & Nucleosome
+Primary Screen Hit	ChemBridge 44462509	6-{[3-(pyridin-2-ylmethoxy)piperidin-1-yl]carbonyl}-3,4-dihydro[1]benzothieno[2,3-c]pyridin-1(2H)-one	c12c(CCNC1=O)c(c(ccc3C(=O)N4CCCC(C4)OCc5ccccn5)s2)c3	533.3 uM	946192	975350	960771	1.24	-0.01	Y	Y	Y	Peptide & Nucleosome
+Primary Screen Hit	ChemBridge 16747912	N-(2-morpholin-4-yl-2-pyridin-4-ylethyl)-2-(3-thienyl)acetamide	N(CC1)(CCO1)C(c(cc2)ccn2)CNC(Cc(ccs3)c3)=O	533.3 uM	906423	938078	922250.5	0.08	-0.83	Y	Y	Y	Peptide & Nucleosome
+Primary Screen Hit	ChemBridge 61634775	N-[2-(1-azepanyl)ethyl]-N-methyl-5-oxo-1-(4-pyridinylmethyl)-3-pyrrolidinecarboxamide	C(CC(N1Cc(cc2)ccn2)=O)(C1)C(=O)N(C)CCN3CCCCCC3	533.3 uM	924081	961523	942802	0.59	-0.31	Y	Y	Y	Peptide & Nucleosome
+Primary Screen Hit	ChemBridge 63893507	N-[2-(3,4-dihydroisoquinolin-2(1H)-yl)-1-methylethyl]-1,2-dimethyl-1H-imidazole-4-sulfonamide	c1(cn(c(C)n1)C)S(=O)(=O)NC(C)CN(CCc(c23)cccc2)C3	533.3 uM	850745	901344	876044.5	-1.55	-1.63	Y	Y	Y	Peptide & Nucleosome
+Primary Screen Hit	ChemBridge 59131084	rel-(4aR,8aR)-7-methyl-1-(2-pyrazinylcarbonyl)-N-(4-pyridinylmethyl)octahydro-1,7-naphthyridine-4a(2H)-carboxamide	[C@@]1(CCCN2C(=O)c3cnccn3)(C(=O)NCc(cc4)ccn4)[C@]2([H])CN(C)CC1	533.3 uM	864850	899567	882208.5	-1.14	-1.67	Y	Y	Y	Peptide & Nucleosome
+Primary Screen Hit	ChemBridge 96823570	(2S)-cyclopropyl{[(4-pyrimidin-2-yl-1,4-diazepan-1-yl)carbonyl]amino}acetic acid	C(=O)(N(CCCN1c2ncccn2)CC1)N[C@H](C(O)=O)C3CC3	533.3 uM	750563	758971	754767	0.62	-0.80	Y	Y	Y	Peptide & Nucleosome
+Primary Screen Hit	ChemBridge 53522880	5-{[2,3-dihydro-1H-inden-2-yl(propyl)amino]methyl}-2-pyrazinecarboxylic acid	c1(cnc(cn1)CN(CCC)C2Cc3c(cccc3)C2)C(O)=O	533.3 uM	762241	774166	768203.5	1.26	-0.16	Y	Y	Y	Peptide & Nucleosome
+Primary Screen Hit	ChemBridge 48722378	4-{2-[1-(pyridazin-4-ylcarbonyl)piperidin-2-yl]ethyl}phenol	C(=O)(c(ccnn1)c1)N2CCCCC2CCc(cc3)ccc3O	533.3 uM	734537	782069	758303	-0.25	0.18	Y	Y	Y	Peptide & Nucleosome
+Primary Screen Hit	ChemBridge 14947412	(2S)-N~1~-[(1-benzyl-1H-pyrazol-4-yl)methyl]pyrrolidine-1,2-dicarboxamide	N1(CCC[C@H]1C(N)=O)C(=O)NCc(cnn2Cc3ccccc3)c2	533.3 uM	739085	765043	752064	-0.01	-0.54	Y	Y	Y	Peptide & Nucleosome
+Primary Screen Hit	ChemBridge 67730375	N-methyl-5-[(5-methyl-1,3-oxazol-4-yl)carbonyl]-4,5,6,7-tetrahydrothieno[3,2-c]pyridine-2-carboxamide	c1(c(C)ocn1)C(=O)N(CCc(c2c3)sc3C(NC)=O)C2	533.3 uM	736941	778624	757782.5	-0.12	0.03	Y	Y	Y	Peptide & Nucleosome
+Primary Screen Hit	ChemBridge 67271987	1-(2-fluorobenzyl)-3-hydroxy-3-({[(1-methyl-1H-imidazol-2-yl)methyl]amino}methyl)-2-piperidinone	C1(=O)C(CCCN1Cc2ccccc2F)(CNCc3nccn3C)O	533.3 uM	716174	765754	740964	-1.26	-0.51	Y	Y	Y	Peptide & Nucleosome
+Primary Screen Hit	ChemBridge 34465550	N-2,1,3-benzothiadiazol-4-yl-N'-{2-[3-(methoxymethyl)-1,2,4-oxadiazol-5-yl]ethyl}urea	c1(c(cccc1NC(NCCc2onc(COC)n2)=O)ns3)n3	533.3 uM	725109	753499	739304	-0.77	-1.03	Y	Y	Y	Peptide & Nucleosome
+Primary Screen Hit	ChemBridge 45512879	N-(2-hydroxy-2-phenylethyl)-N-(pyridin-4-ylmethyl)tetrahydro-2H-pyran-4-carboxamide	N(Cc(cc1)ccn1)(CC(O)c2ccccc2)C(C(CC3)CCO3)=O	533.3 uM	713668	758547	736107.5	-1.40	-0.82	Y	Y	Y	Peptide & Nucleosome
+Primary Screen Hit	ChemBridge 95613023	5-[1-(3,4-dihydroisoquinolin-2(1H)-ylacetyl)piperidin-4-yl]-4-ethyl-2,4-dihydro-3H-1,2,4-triazol-3-one	N1(CC)C(=O)NN=C1C(CC2)CCN2C(=O)CN3CCc(c4C3)cccc4	533.3 uM	704061	745668	724864.5	-1.92	-1.36	Y	Y	Y	Peptide & Nucleosome
+Primary Screen Hit	ChemBridge 73422179	2-(2-phenoxyethyl)-4-phenyl-5-(3-piperidinyl)-2,4-dihydro-3H-1,2,4-triazol-3-one hydrochloride	N1(c2ccccc2)C(=O)N(N=C1C(CCCN3)C3)CCOc4ccccc4	533.3 uM	836358	870342	853350	1.17	1.19	Y	Y	Y	Peptide & Nucleosome
+Primary Screen Hit	ChemBridge 58533287	5-({[2-(trifluoromethoxy)benzyl]amino}carbonyl)-1H-imidazole-4-carboxylic acid	c1(C(O)=O)nc[nH]c1C(=O)NCc2ccccc2OC(F)(F)F	533.3 uM	803485	840826	822155.5	-0.03	0.30	Y	Y	Y	Peptide & Nucleosome
+Primary Screen Hit	ChemBridge 16909360	(4aR*,8aR*)-2-[(5-cyclopropyl-1,3,4-oxadiazol-2-yl)methyl]-7-(pyrrolidin-1-ylcarbonyl)octahydro-2,7-naphthyridin-4a(2H)-ol	C(=O)(N1CCCC1)N(CC[C@]([C@]2([H])C3)(O)CCN3Cc(nnc4C5CC5)o4)C2	533.3 uM	777103	818966	798034.5	-1.00	-0.36	Y	Y	Y	Peptide & Nucleosome
+Primary Screen Hit	ChemBridge 76146561	1-(trans-4-hydroxycyclohexyl)-2-oxo-N-(pyridin-4-ylmethyl)-2,3-dihydro-1H-benzimidazole-5-carboxamide	C1(=O)Nc(c(ccc2C(=O)NCc(cc3)ccn3)N1[C@H]4CC[C@@H](CC4)O)c2	533.3 uM	812997	845034	829015.5	0.32	0.43	Y	Y	Y	Peptide & Nucleosome
+Primary Screen Hit	ChemBridge 42277961	N-{[8-methyl-2-(4-morpholinylcarbonyl)imidazo[1,2-a]pyridin-3-yl]methyl}-2-(4-pyridinyl)ethanamine	c1(C(=O)N(CC2)CCO2)c(CNCCc(cc3)ccn3)n(c4n1)cccc4C	533.3 uM	804887	841837	823362	0.02	0.33	Y	Y	Y	Peptide & Nucleosome
+Primary Screen Hit	ChemBridge 43433036	rel-(6R,7R,8aR)-N-(2-hydroxyethyl)-6-isobutyl-4-oxo-2-(4-pyridinylmethyl)octahydropyrrolo[1,2-a]pyrazine-7-carboxamide	N1([C@@]([H])(CN(CC1=O)Cc(cc2)ccn2)C[C@H]3C(NCCO)=O)[C@@H]3CC(C)C	533.3 uM	813300	849065	831182.5	0.33	0.55	Y	Y	Y	Peptide & Nucleosome
+Primary Screen Hit	ChemBridge 17777655	9-[(9-hydroxy-4-oxo-4H-pyrido[1,2-a]pyrimidin-3-yl)carbonyl]-2-methyl-2,9-diazaspiro[5.5]undecan-3-one	C(=CN=C1N2C=CC=C1O)(C(=O)N(CC3)CCC3(CCC(N4C)=O)C4)C2=O	533.3 uM	805664	838835	822249.5	0.05	0.24	Y	Y	Y	Peptide & Nucleosome
+Primary Screen Hit	ChemBridge 68410740	2'-amino-6'-[1-(3-methylphenyl)-1H-pyrazol-4-yl]-3,4'-bipyridine-3'-carbonitrile	c(cnn1c2cccc(C)c2)(c(cc3c(cccn4)c4)nc(c3C#N)N)c1	533.3 uM	1007057	1010490	1008773.5	7.42	5.41	Y	Y	Y	Peptide & Nucleosome
+Primary Screen Hit	ChemBridge 40551911	2-(benzylthio)-4-hydroxy-N-[1-(1-methyl-1H-1,2,4-triazol-5-yl)ethyl]pyrimidine-5-carboxamide	c1(C(C)NC(=O)c(cnc(n2)SCc3ccccc3)c2O)n(C)ncn1	533.3 uM	668780	761412	715096	-1.48	-1.52	Y	Y	Y	Nucleosome Only
+Primary Screen Hit	ChemBridge 51057400	7-chloro-4-hydroxy-N-{[4-(2-methoxyethyl)-4H-1,2,4-triazol-3-yl]methyl}-N-methylquinoline-3-carboxamide	c1(cnc(c2c1O)cc(cc2)Cl)C(=O)N(C)Cc3nncn3CCOC	533.3 uM	811846	847164	829505	0.27	0.49	Y	Y	Y	Nucleosome Only
+Primary Screen Hit	BIOMOL DL-499	Sarafloxacin HCl	c1(cc(N2CCNCC2)c(F)c3)c3C(=O)C(C(=O)O)=CN1c4ccc(F)cc4	277.3 uM	773516	904624	839070	-1.52	-0.32	Y	Y	Y	Peptide Only
+Primary Screen Hit	ChemBridge 49849052	5-{5-[1-(3-phenylpropyl)-1H-1,2,3-triazol-4-yl]-1,2,4-oxadiazol-3-yl}-1H-benzimidazole	n1c(c(ccc(c23)[nH]cn2)c3)noc1c4cn(nn4)CCCc5ccccc5	533.3 uM	986837	977514	982175.5	2.86	0.97	Y	Y	Y	Peptide Only
+Primary Screen Hit	BIOMOL DL-359	Clinafloxacin HCl	c1(c(Cl)c(N2CCC(N)C2)c(F)c3)c3C(=O)C(C(=O)O)=CN1C4CC4	293.3 uM	968716	971502	970109	2.49	0.87	Y	Y	Y	Peptide Only
+Primary Screen Hit	ChemBridge 73745946	[9-(2,3,4-trimethoxybenzyl)-6-oxa-2,9-diazaspiro[4.5]dec-2-yl]acetic acid	c(OC)(c(OC)ccc1CN(CCOC2(CCN3CC(O)=O)C3)C2)c1OC	533.3 uM	820203	844971	832587	-0.56	-1.39	Y	Y	Y	Peptide Only
+Primary Screen Hit	ChemBridge 25079232	5-[(1-cyclohexyl-1H-1,2,3-triazol-4-yl)carbonyl]-4-(4-pyridinyl)-4,5,6,7-tetrahydro-1H-imidazo[4,5-c]pyridine	N(CCc(c12)[nH]cn1)(C2c(cc3)ccn3)C(=O)c(cn(n4)C5CCCCC5)n4	533.3 uM	757259	829873	793566	-1.85	-1.65	Y	Y	Y	Peptide Only
+Primary Screen Hit	ChemBridge 12573451	N'-[2-(1-cyclopentylpiperidin-4-yl)ethyl]-N-[2-(3,5-dimethyl-1H-pyrazol-4-yl)ethyl]-N-methylurea	c(CCN(C)C(NCCC(CC1)CCN1C2CCCC2)=O)(c3C)c(C)[nH]n3	533.3 uM	780191	888178	834184.5	-1.38	-0.62	Y	Y	Y	Peptide Only
+Primary Screen Hit	ChemBridge 56040096	N-[(1-isopropyl-3,5-dimethyl-1H-pyrazol-4-yl)methyl]-N-methyl-N'-[(5-methylisoxazol-3-yl)methyl]urea	c(CN(C)C(=O)NCc1cc(on1)C)(c(C)nn2C(C)C)c2C	533.3 uM	674831	766537	720684	-1.18	-1.39	Y	Y	Y	Peptide Only
+Primary Screen Hit	ChemBridge 70040996	5-({4-[1-(2-hydroxyethyl)-1H-benzimidazol-2-yl]-1,4-diazepan-1-yl}carbonyl)pyrrolidin-2-one	c1(N(CCCN2C(=O)C3CCC(=O)N3)CC2)n(CCO)c4c(cccc4)n1	533.3 uM	696020	757917	726968.5	-0.14	-1.60	Y	Y	Y	Peptide Only
+Primary Screen Hit	ChemBridge 33728969	1,3-dimethyl-N-(5-morpholin-4-ylpentyl)-1H-pyrazolo[3,4-d][1,3]thiazol-5-amine	c12c(sc(NCCCCCN(CC3)CCO3)n1)c(nn2C)C	533.3 uM	962166	1003631	982898.5	-0.06	-1.68	Y	Y	Y	Peptide Only
+Primary Screen Hit	ChemBridge 24708103	5-[4-(3-methylpyridin-4-yl)-1,4-diazepan-1-yl]pyrazine-2-carboxylic acid	c1(cnc(cn1)N(CCCN2c3ccncc3C)CC2)C(O)=O	533.3 uM	916470	976839	946654.5	0.37	0.02	Y	Y	Y	Peptide Only
+Primary Screen Hit	ChemBridge 19094818	(1R,9aR)-N-{4-chloro-3-[(ethylamino)carbonyl]phenyl}octahydro-2H-quinolizine-1-carboxamide	[C@H]1(CCCN2[C@]1([H])CCCC2)C(=O)Nc(ccc(c3C(NCC)=O)Cl)c3	533.3 uM	871782	921893	896837.5	-0.93	-1.18	Y	Y	Y	Peptide Only
+Primary Screen Hit	ChemBridge 28452422	2-methyl-N-(1-methyl-2-pyrrolidin-1-ylethyl)-4-oxo-3,4,5,7-tetrahydro-6H-pyrrolo[3,4-d]pyrimidine-6-carboxamide formate	C1(C2)=C(CN2C(=O)NC(C)CN3CCCC3)N=C(C)NC1=O	533.3 uM	874225	921540	897882.5	-0.86	-1.19	Y	Y	Y	Peptide Only
+Primary Screen Hit	ChemBridge 82670160	N-[(3R*,4S*)-4-isopropyl-1-(4-pyridinylmethyl)-3-pyrrolidinyl]-1-(methoxymethyl)cyclobutanecarboxamide dihydrochloride	C(=O)(N[C@@H](C1)[C@@H](C(C)C)CN1Cc(cc2)ccn2)C3(CCC3)COC	533.3 uM	741403	775132	758267.5	0.12	-0.12	Y	Y	Y	Peptide Only
+Primary Screen Hit	ChemBridge 18709187	5-(2-fluorophenyl)-N-(2-methoxy-1-methylethyl)pyrazolo[1,5-a]pyrimidin-7-amine	c1(NC(C)COC)cc(c2ccccc2F)nc(ccn3)n13	533.3 uM	964367	988774	976570.5	12.31	8.93	Y	Y	Y	Peptide Only
+Primary Screen Hit	ChemBridge 16422909	5-[(3-cyclohexyl-1-piperidinyl)methyl]-2-pyrazinecarboxylic acid	c1(cnc(cn1)CN2CCCC(C3CCCCC3)C2)C(O)=O	533.3 uM	760615	781414	771014.5	1.17	0.15	Y	Y	Y	Peptide Only
+Primary Screen Hit	ChemBridge 95921612	(4aR*,7aS*)-1-(4-pyridinylmethyl)-4-(4,4,4-trifluorobutanoyl)octahydrothieno[3,4-b]pyrazine 6,6-dioxide	S(=O)(=O)(C[C@H]([C@@H]12)N(Cc(cc3)ccn3)CCN1C(CCC(F)(F)F)=O)C2	533.3 uM	742706	779594	761150	0.19	0.07	Y	Y	Y	Peptide Only
+Primary Screen Hit	ChemBridge 54883940	4-{1-[1-(phenylsulfonyl)piperidin-4-yl]-1H-imidazol-2-yl}pyridine	S(c1ccccc1)(=O)(=O)N(CC2)CCC2n3ccnc3c(cc4)ccn4	533.3 uM	708745	742134	725439.5	-1.66	-1.51	Y	Y	Y	Peptide Only
+Primary Screen Hit	ChemBridge 84485409	1-(N,N-dimethylglycyl)-4-(4-fluorophenoxy)piperidine-4-carboxylic acid	C(Oc(cc1)ccc1F)(CC2)(CCN2C(=O)CN(C)C)C(O)=O	533.3 uM	715666	754338	735002	-1.29	-1.00	Y	Y	Y	Peptide Only
+Primary Screen Hit	ChemBridge 13675485	2-{3-[(4-pyridin-3-yl-1H-1,2,3-triazol-1-yl)methyl]piperidin-1-yl}quinoxaline	n1n(CC(CCCN2c3cnc(c4n3)cccc4)C2)cc(c(cccn5)c5)n1	533.3 uM	737712	781037	759374.5	-0.08	0.13	Y	Y	Y	Peptide Only
+Primary Screen Hit	ChemBridge 56307865	N-ethyl-5-(3-isobutyl-1,2,4-oxadiazol-5-yl)-N-(4-pyridinylmethyl)-2-pyridinamine	n1c(CC(C)C)noc1c(ccc(n2)N(CC)Cc(cc3)ccn3)c2	533.3 uM	887896	932269	910082.5	3.06	3.06	Y	Y	Y	Peptide Only
+Primary Screen Hit	ChemBridge 49551351	(4aS*,8aR*)-1-(4-pyridinylmethyl)-6-(2-pyrimidinyl)octahydro-1,6-naphthyridine-4a(2H)-carboxylic acid	[C@](CCCN1Cc(cc2)ccn2)(C(O)=O)(C3)[C@H]1CCN3c4ncccn4	533.3 uM	811365	851025	831195	0.26	0.61	Y	Y	Y	Peptide Only
+Primary Screen Hit	ChemBridge 61963936	rel-(1S,5S)-7-propyl-9-[6-(pyrrolidin-1-ylcarbonyl)pyrazin-2-yl]-3-oxa-7,9-diazabicyclo[3.3.2]decane formate	N(C[C@@]([H])(CO1)CN2CCC)([C@]([H])(C1)C2)c(cncc3C(=O)N4CCCC4)n3	533.3 uM	764341	798544	781442.5	-1.47	-0.97	Y	Y	Y	Peptide Only
+Primary Screen Hit	ChemBridge 51081996	4-{[(2R*,3R*,6R*)-3-(4-fluorophenyl)-1,5-diazatricyclo[5.2.2.0~2,6~]undec-5-yl]carbonyl}pyridin-3-ol	N1(C[C@H]([C@H]2N(CCC(C3)[C@@H]12)C3)c4ccc(cc4)F)C(=O)c5ccncc5O	533.3 uM	762331	797263	779797	-1.54	-1.01	Y	Y	Y	Peptide Only
+Primary Screen Hit	ChemBridge 67931022	2-amino-N,3-diethyl-N-(pyridin-4-ylmethyl)-3H-imidazo[4,5-b]pyridine-6-carboxamide	n1(CC)c(nc2)c(nc1N)cc2C(=O)N(CC)Cc(cc3)ccn3	533.3 uM	769256	787760	778508	-1.29	-1.30	Y	Y	Y	Peptide Only
+Primary Screen Hit	ChemBridge 94686317	6-cyano-N-methyl-N-[(5-methyl-1H-benzimidazol-2-yl)methyl]nicotinamide	n1c2c([nH]c1CN(C)C(=O)c(ccc(n3)C#N)c3)ccc(C)c2	533.3 uM	855405	948952	902178.5	0.16	0.47	Y	Y	Y	
+Primary Screen Hit	ChemBridge 68370427	5-isopropyl-N,2-dimethyl-N-[(5-methyl-1,2,4-oxadiazol-3-yl)methyl]pyrazolo[1,5-a]pyrimidin-7-amine	n12c(cc(C)n1)nc(C(C)C)cc2N(C)Cc3noc(C)n3	533.3 uM	864347	837159	850753	0.35	-1.52	Y	Y	Y	
+Primary Screen Hit	ChemBridge 64207648	N'-(1-imidazo[2,1-b][1,3,4]thiadiazol-6-ylethyl)-N-(2-methoxyethyl)-N-(pyridin-4-ylmethyl)urea	c12n(ncs1)cc(C(C)NC(=O)N(CCOC)Cc(cc3)ccn3)n2	533.3 uM	674377	788152	731264.5	-1.20	-0.88	Y	Y	Y	
+Primary Screen Hit	ChemBridge 10089884	N-[2-(4-methyl-1H-benzimidazol-2-yl)ethyl]-6-oxo-1,6-dihydro-2,4'-bipyridine-5-carboxamide	C1(C(NCCc2[nH]c(c3n2)cccc3C)=O)=CC=C(NC1=O)c(cc4)ccn4	533.3 uM	702867	759943	731405	0.19	-1.55	Y	Y	Y	
+Primary Screen Hit	ChemBridge 75216599	4-oxo-N-propyl-N-(pyridin-4-ylmethyl)-3,4-dihydrophthalazine-1-carboxamide	C1(C(=O)N(CCC)Cc(cc2)ccn2)=NNC(=O)c(cccc3)c13	533.3 uM	719644	742436	731040	1.01	-1.97	Y	Y	Y	
+Primary Screen Hit	ChemBridge 80883753	cis-8-(isoquinolin-1-ylcarbonyl)-5a,6,7,8,9,9a-hexahydro-4H-pyrido[4,3-b][1,2,3]triazolo[1,5-d][1,4]oxazine	n12c(CO[C@H](CCN3C(=O)c4nccc(cccc5)c45)[C@@H]1C3)cnn2	533.3 uM	990802	1032541	1011671.5	0.66	-0.28	Y	Y	Y	
+Primary Screen Hit	ChemBridge 24352500	(1R*,2R*,6S*,7S*)-N-(8-chloroquinolin-5-yl)-10-oxa-4-azatricyclo[5.2.1.0~2,6~]decane-4-carboxamide	N(C[C@@H]1[C@H]2[C@@H]3O[C@H]1CC3)(C2)C(=O)Nc4ccc(c5c4cccn5)Cl	533.3 uM	751394	772435	761914.5	-1.94	-1.76	Y	Y	Y	
+Primary Screen Hit	ChemBridge 39938344	N-(2,5-difluoro-4-hydroxyphenyl)-3-(4,5,6,7-tetrahydropyrazolo[1,5-a]pyrazin-2-yl)propanamide hydrochloride	n1(CC2)c(CN2)cc(CCC(=O)Nc3c(F)cc(c(F)c3)O)n1	533.3 uM	512774	501718	507246	-6.87	-7.50				Peptide & Nucleosome
+Primary Screen Hit	ChemBridge 53999670	4-(3-aminoisoquinolin-6-yl)-N-{2-[ethyl(methyl)amino]ethyl}-N-methylbenzamide	C(=O)(c(cc1)ccc1c(ccc(c2cc(n3)N)c3)c2)N(C)CCN(C)CC	533.3 uM	427206	475304	451255	-8.63	-7.97				Peptide & Nucleosome
+Primary Screen Hit	ChemBridge 26996278	4-(2-amino-6-methylpyrimidin-4-yl)-7-(2-methylphenyl)-2,3,4,5-tetrahydro-1,4-benzoxazepin-9-ol	n1c(N)nc(cc1N(CCOc(c(cc2c3ccccc3C)O)c4c2)C4)C	533.3 uM	257470	290823	274146.5	-12.12	-11.25				Peptide & Nucleosome
+Primary Screen Hit	ChemBridge 87234027	3-[4-(2-chloro-3,4-dimethoxybenzyl)piperazin-1-yl]pyrazine-2-carbonitrile	c1(nccnc1C#N)N(CC2)CCN2Cc(ccc(c3OC)OC)c3Cl	533.3 uM	547212	573628	560420	-6.17	-6.22				Peptide & Nucleosome
+Primary Screen Hit	ChemBridge 46748433	4-(8-cyclopentyl-9-oxo-2,8-diazaspiro[5.5]undec-2-yl)-2-methoxynicotinonitrile	N1(C2CCCC2)CC(CCCN3c4ccnc(OC)c4C#N)(CCC1=O)C3	533.3 uM	572197	617126	594661.5	-5.65	-5.44				Peptide & Nucleosome
+Primary Screen Hit	ChemBridge 95479415	N~2~-[3-(5-chloro-1H-benzimidazol-2-yl)propyl]-5-fluoro-N~4~-methylpyrimidine-2,4-diamine	n1c(NCCCc2[nH]c(c3n2)ccc(Cl)c3)ncc(F)c1NC	533.3 uM	647737	698362	673049.5	-4.10	-4.00				Peptide & Nucleosome
+Primary Screen Hit	ChemBridge 77818633	2-methoxy-N-(2-oxo-6-pyrrolidin-1-yl-2,3-dihydro-1H-benzimidazol-5-yl)isonicotinamide	C1(=O)Nc(c(cc(c2NC(=O)c(ccnc3OC)c3)N4CCCC4)N1)c2	533.3 uM	738691	720552	729621.5	-2.23	-3.60				Peptide & Nucleosome
+Primary Screen Hit	ChemBridge 69542092	N-[2-(2-pyrimidin-2-yl-1,3-thiazol-4-yl)ethyl]-4-pyrrolidin-1-ylbenzamide	c1(c2ncccn2)scc(CCNC(=O)c(cc3)ccc3N4CCCC4)n1	533.3 uM	675266	715331	695298.5	-3.54	-3.69				Peptide & Nucleosome
+Primary Screen Hit	ChemBridge 92326478	3-hydroxy-N-{cis-4-[(3-methylbut-2-en-1-yl)oxy]tetrahydro-2H-pyran-3-yl}isonicotinamide	C(=O)(N[C@@H]1COCC[C@@H]1OC\C=C(\C)/C)c2ccncc2O	533.3 uM	744158	804916	774537	-2.12	-2.10				Peptide & Nucleosome
+Primary Screen Hit	ChemBridge 70094087	N-[2-(2,3-dihydro-1H-indol-1-yl)ethyl]-2-methoxy-4,5-dimethylbenzenesulfonamide	S(NCCN1CCc(cccc2)c12)(=O)(=O)c3c(OC)cc(c(C)c3)C	533.3 uM	21559	20764	21161.5	-16.96	-16.06				Peptide & Nucleosome
+Primary Screen Hit	ChemBridge 70024836	2-(2,2-dimethylpropanoyl)-7-{[2-(methoxymethyl)pyrrolidin-1-yl]sulfonyl}-1,2,3,4-tetrahydroisoquinoline	S(=O)(=O)(c(ccc(c1C2)CCN2C(=O)C(C)(C)C)c1)N3CCCC3COC	533.3 uM	762838	786048	774443	-1.74	-2.43	Y			Peptide & Nucleosome
+Primary Screen Hit	ChemBridge 34166432	2-[({[(1R*,2R*,3S*,4S*)-3-aminobicyclo[2.2.1]hept-2-yl]carbonyl}amino)methyl]-N,N-dimethyl-7,8-dihydro-4H-pyrazolo[1,5-a][1,4]diazepine-5(6H)-carboxamide hydrochloride	c(C1)(cc(n2)CNC(=O)[C@H]3[C@@H](N)[C@H](C[C@H]34)CC4)n2CCCN1C(=O)N(C)C	533.3 uM	784240	772234	778237	-1.30	-2.68	Y			Peptide & Nucleosome
+Primary Screen Hit	ChemBridge 29630370	N-(6-cyclopentyl-1-methyl-1H-pyrazolo[3,4-d]pyrimidin-4-yl)-N'-pyridin-3-ylpropane-1,3-diamine	c1(n2C)c(cn2)c(NCCCNc(cccn3)c3)nc(C4CCCC4)n1	533.3 uM	494438	525503	509970.5	-7.25	-7.07				Peptide & Nucleosome
+Primary Screen Hit	ChemBridge 70385670	N'-[2-(1-ethylpiperidin-4-yl)ethyl]-N-methyl-N-[(3-pyridin-4-ylisoxazol-5-yl)methyl]urea	n(o1)c(c(cc2)ccn2)cc1CN(C)C(NCCC(CC3)CCN3CC)=O	533.3 uM	802970	733972	768471	5.09	-2.17	Y			Peptide & Nucleosome
+Primary Screen Hit	ChemBridge 48837150	N-1H-1,2,3-benzotriazol-5-yl-2-methyl-4-(3-methylbenzyl)-3-oxopiperazine-1-carboxamide	N(CCN(C1=O)Cc2cccc(C)c2)(C1C)C(=O)Nc(ccc(c3n4)[nH]n4)c3	533.3 uM	574888	751950	663419	-6.08	-1.74		Y		Peptide & Nucleosome
+Primary Screen Hit	ChemBridge 99085151	N-[2-({[ethyl(pyridin-4-ylmethyl)amino]carbonyl}amino)ethyl]-N-methylmethanesulfonamide	S(C)(=O)(=O)N(C)CCNC(=O)N(CC)Cc(cc1)ccn1	533.3 uM	624945	856073	740509	-3.62	0.74		Y		Peptide & Nucleosome
+Primary Screen Hit	ChemBridge 14074688	3-{[rac-(1S,5R)-3-(pyridin-4-ylmethyl)-3,6-diazabicyclo[3.2.2]non-6-yl]carbonyl}-4,5,6,7-tetrahydro-2,1-benzisoxazole	c1(onc(CCCC2)c12)C(=O)N3C[C@@H](CC[C@@H]3C4)CN4Cc(cc5)ccn5	533.3 uM	638181	772362	705271.5	-2.98	-1.26		Y		Peptide & Nucleosome
+Primary Screen Hit	ChemBridge 45866288	N-{4-[(3-methylbutanoyl)amino]phenyl}piperidine-3-carboxamide hydrochloride	C(=O)(C(CCCN1)C1)Nc(cc2)ccc2NC(CC(C)C)=O	533.3 uM	298651	403251	350951	-19.60	-10.04				Peptide & Nucleosome
+Primary Screen Hit	ChemBridge 27312380	8-[(5E)-5-heptenoyl]-2-(4-pyridinylmethyl)-2,8-diazaspiro[4.5]decane-4-carboxylic acid	C1(CN(CC1(CC2)CCN2C(CCC\C=C\C)=O)Cc(cc3)ccn3)C(O)=O	533.3 uM	565853	773231	669542	-6.52	-1.24		Y		Peptide & Nucleosome
+Primary Screen Hit	ChemBridge 85951184	N'-[3-(dimethylamino)propyl]-N-(1,4,5,6,7,8-hexahydrocyclohepta[c]pyrazol-3-ylmethyl)-N-methylurea	c1(CN(C)C(NCCCN(C)C)=O)c2c([nH]n1)CCCCC2	533.3 uM	703312	727907	715609.5	0.21	-2.31	Y			Peptide & Nucleosome
+Primary Screen Hit	ChemBridge 79193160	N-[3-(dimethylamino)-1-phenylpropyl]-2-(5-methyl-3-oxo-2,3-dihydro-1H-pyrazol-4-yl)acetamide	C1(CC(=O)NC(c2ccccc2)CCN(C)C)=C(C)NNC1=O	533.3 uM	624438	685405	654921.5	-3.65	-3.33				Peptide & Nucleosome
+Primary Screen Hit	ChemBridge 12095467	N-[4-methoxy-3-(2-pyridin-4-yl-1H-imidazol-1-yl)phenyl]acetamide	n1(ccnc1c(cc2)ccn2)c3c(OC)ccc(c3)NC(C)=O	533.3 uM	599462	704727	652094.5	-4.87	-2.87				Peptide & Nucleosome
+Primary Screen Hit	ChemBridge 39002974	2-(3,4-dihydroisoquinolin-2(1H)-yl)-N-[trans-3-(pyridin-2-yloxy)tetrahydro-2H-pyran-4-yl]acetamide	N(CCc(c12)cccc1)(CC(=O)N[C@@H]3CCOC[C@H]3Oc4ccccn4)C2	533.3 uM	637937	698121	668029	-2.99	-3.02				Peptide & Nucleosome
+Primary Screen Hit	ChemBridge 76230449	N-{[3-(4-methoxyphenyl)-1H-pyrazol-4-yl]methyl}-2-methyl-3-phenylcycloprop-2-ene-1-carboxamide	C1(c2ccccc2)=C(C1C(=O)NCc3c[nH]nc3c4ccc(cc4)OC)C	533.3 uM	459800	503615	481707.5	-11.71	-7.65				Peptide & Nucleosome
+Primary Screen Hit	ChemBridge 19952426	N-(3-methylcinnolin-5-yl)-N'-(5-oxo-1-propylpyrrolidin-3-yl)urea	C1(=O)CC(CN1CCC)NC(=O)Nc2cccc3c2cc(C)nn3	533.3 uM	623926	688458	656192	-3.67	-3.25				Peptide & Nucleosome
+Primary Screen Hit	ChemBridge 55679687	(3aS*,6aS*)-2-[4-(1,3-dihydro-2H-isoindol-2-yl)butanoyl]-5-methylhexahydropyrrolo[3,4-c]pyrrole-3a(1H)-carboxylic acid diformate	[C@](C1)(C(O)=O)(C2)[C@@H](CN1C)CN2C(CCCN(Cc3c4cccc3)C4)=O	533.3 uM	629363	719388	674375.5	-3.41	-2.52				Peptide & Nucleosome
+Primary Screen Hit	ChemBridge 52875488	N-[(6-fluoro-1H-benzimidazol-2-yl)methyl]-N-methyl-2-[methyl(pyridin-4-ylmethyl)amino]acetamide	c1(CN(C)C(=O)CN(C)Cc(cc2)ccn2)[nH]c3c(ccc(F)c3)n1	533.3 uM	589750	695377	642563.5	-5.35	-3.09				Peptide & Nucleosome
+Primary Screen Hit	ChemBridge 72091797	N-[2-methoxy-5-(4H-1,2,4-triazol-4-yl)phenyl]-2-methyl-1,3-benzothiazole-5-carboxamide	n(c(c1)c(s2)ccc1C(=O)Nc(c(OC)ccc3n(cnn4)c4)c3)c2C	533.3 uM	616036	706481	661258.5	-4.06	-2.82				Peptide & Nucleosome
+Primary Screen Hit	ChemBridge 47795572	3-isoquinolin-5-yl-5-(morpholin-4-ylsulfonyl)benzoic acid	S(=O)(=O)(N(CC1)CCO1)c(cc(cc2c3cccc(cn4)c3cc4)C(O)=O)c2	533.3 uM	649052	715935	682493.5	-2.44	-2.60				Peptide & Nucleosome
+Primary Screen Hit	ChemBridge 23528588	N-cyclopropyl-N-(pyridin-4-ylmethyl)-N'-1,3,4-thiadiazol-2-ylsuccinamide	c1(nncs1)NC(CCC(=O)N(Cc(cc2)ccn2)C3CC3)=O	533.3 uM	651559	705831	678695	-2.32	-2.84				Peptide & Nucleosome
+Primary Screen Hit	ChemBridge 30262461	N~1~-[(3R*,4R*)-3-hydroxy-1-(pyridin-2-ylcarbonyl)piperidin-4-yl]-N~2~-methyl-N~2~-(pyridin-4-ylmethyl)glycinamide	N1(CC[C@H]([C@H](O)C1)NC(CN(C)Cc(cc2)ccn2)=O)C(=O)c3ccccn3	533.3 uM	624607	739652	682129.5	-3.64	-2.03				Peptide & Nucleosome
+Primary Screen Hit	ChemBridge 97033877	4-({[[3-(3,5-dimethyl-1H-pyrazol-1-yl)benzyl](methyl)amino]carbonyl}amino)butanoic acid	n1(c2cccc(c2)CN(C)C(NCCCC(O)=O)=O)c(C)cc(C)n1	533.3 uM	643673	763975	703824	-2.71	-1.46		Y		Peptide & Nucleosome
+Primary Screen Hit	ChemBridge 66869809	cis-1-(4-ethoxy-3-methoxybenzyl)-4-(4-pyridinylmethyl)-3-pyrrolidinol	N(Cc(ccc(c1OC)OCC)c1)(C[C@@H]([C@@H]2Cc(cc3)ccn3)O)C2	533.3 uM	860122	929393	894757.5	-2.63	-5.27				Peptide & Nucleosome
+Primary Screen Hit	ChemBridge 24943019	N-[4-(difluoromethoxy)phenyl]-4-(pyridin-4-ylmethyl)-1,4-diazepane-1-carboxamide	C(=O)(Nc(cc1)ccc1OC(F)F)N(CCCN2Cc(cc3)ccn3)CC2	533.3 uM	920570	984661	952615.5	-1.11	-2.60	Y			Peptide & Nucleosome
+Primary Screen Hit	ChemBridge 74808776	(2S)-2-({[4-(2-methoxyphenyl)-3,3-dimethylpiperazin-1-yl]carbonyl}amino)-4-(methylthio)butanoic acid	N(CC1)(c2ccccc2OC)C(C)(C)CN1C(=O)N[C@@H](CCSC)C(O)=O	533.3 uM	821040	902765	861902.5	-3.61	-6.56				Peptide & Nucleosome
+Primary Screen Hit	ChemBridge 88808419	N-[rac-(3S,4S)-4-hydroxy-1,1-dioxidotetrahydro-3-thienyl]-N-methyl-4-(5-oxo-3-propyl-2,5-dihydro-1H-pyrazol-1-yl)benzamide	S(=O)(=O)(C[C@H]([C@@H]1N(C)C(=O)c(cc2)ccc2N3NC(=CC3=O)CCC)O)C1	533.3 uM	748249	796252	772250.5	-5.45	-11.71				Peptide & Nucleosome
+Primary Screen Hit	ChemBridge 73181246	2-(4-morpholinyl)-6-[4-(2-phenoxyethyl)-1-piperazinyl]-4-pyrimidinamine	c1(N(CC2)CCO2)nc(N)cc(N(CC3)CCN3CCOc4ccccc4)n1	533.3 uM	651459	683325	667392	-7.89	-17.17				Peptide & Nucleosome
+Primary Screen Hit	ChemBridge 42780134	1-[2-methoxy-6-(2-methoxy-5-{[4-(4H-1,2,4-triazol-3-yl)-1-piperidinyl]carbonyl}phenoxy)phenyl]methanamine hydrochloride	C(=O)(c(ccc(c1Oc2cccc(OC)c2CN)OC)c1)N(CC3)CCC3c4[nH]cnn4	533.3 uM	850267	925628	887947.5	-2.88	-5.45				Peptide & Nucleosome
+Primary Screen Hit	ChemBridge 24488417	N-(10,11-dihydro-5H-dibenzo[b,f]azepin-3-yl)-N'-[(3S*,4S*)-4-methoxy-1-methylpyrrolidin-3-yl]urea	N1c2c(cccc2)CCc(ccc(c3)NC(=O)N[C@@H](C4)[C@@H](OC)CN4C)c13	533.3 uM	146399	180230	163314.5	-20.62	-41.49				Peptide & Nucleosome
+Primary Screen Hit	ChemBridge 14937743	N-[3-(3,4-dihydroquinolin-1(2H)-yl)propyl]-2-morpholin-2-ylacetamide dihydrochloride	N1(CCCc(cccc2)c12)CCCNC(=O)CC(C3)OCCN3	533.3 uM	63117	79238	71177.5	-22.71	-46.38				Peptide & Nucleosome
+Primary Screen Hit	ChemBridge 94859642	9-hydroxy-2-(1'H-spiro[indene-1,4'-piperidin]-1'-ylmethyl)-4H-pyrido[1,2-a]pyrimidin-4-one	N1(C=CC=C2O)C2=NC(CN(CC3)CCC34c5c(C=C4)cccc5)=CC1=O	533.3 uM	343180	355138	349159	-15.66	-33.04				Peptide & Nucleosome
+Primary Screen Hit	ChemBridge 95533598	N-[3-(1,3-dihydro-2H-isoindol-2-yl)propyl]-4-(1H-tetrazol-1-yl)benzamide	n1(c(cc2)ccc2C(NCCCN(Cc3c4cccc3)C4)=O)cnnn1	533.3 uM	901203	991137	946170	-1.59	-2.28	Y			Peptide & Nucleosome
+Primary Screen Hit	ChemBridge 83629361	2-({2-amino-6-[4-(1-isopropyl-1H-imidazol-2-yl)-1-piperidinyl]-4-pyrimidinyl}amino)ethanol	n1c(N)nc(cc1N(CC2)CCC2c3nccn3C(C)C)NCCO	533.3 uM	841988	890983	866485.5	-3.09	-7.13				Peptide & Nucleosome
+Primary Screen Hit	ChemBridge 45447190	((1S)-1-{[3-(1-naphthyl)-6,7-dihydroisoxazolo[4,5-c]pyridin-5(4H)-yl]carbonyl}butyl)amine hydrochloride	c1(c(CCN2C([C@H](CCC)N)=O)onc1c3cccc(cccc4)c34)C2	533.3 uM	646503	709203	677853	-8.01	-15.92				Peptide & Nucleosome
+Primary Screen Hit	ChemBridge 36145602	4-(2-fluorobenzyl)-N-[2-(1-hydroxycyclopentyl)ethyl]piperidine-1-carboxamide	C(NCCC1(CCCC1)O)(=O)N2CCC(CC2)Cc3ccccc3F	533.3 uM	925951	962525	944238	-0.97	-3.67	Y			Peptide & Nucleosome
+Primary Screen Hit	ChemBridge 95927923	5-{[3-(3-isobutyl-1,2,4-oxadiazol-5-yl)piperidin-1-yl]carbonyl}-2-phenyl-1,2-dihydro-3H-pyrazol-3-one	C1(C(=O)N(CCCC2c3onc(CC(C)C)n3)C2)=CC(N(c4ccccc4)N1)=O	533.3 uM	440882	466019	453450.5	-13.19	-27.67				Peptide & Nucleosome
+Primary Screen Hit	ChemBridge 99975978	6-{4-[(2-methyl-2,7-diazaspiro[4.5]dec-7-yl)carbonyl]phenyl}pyridin-2-amine	N(CCCC1(CCN2C)C2)(C1)C(=O)c(cc3)ccc3c4cccc(N)n4	533.3 uM	575659	653293	614476	-9.80	-18.62				Peptide & Nucleosome
+Primary Screen Hit	ChemBridge 83612371	[1-({[4-(3-methylpyridin-2-yl)piperazin-1-yl]carbonyl}amino)cyclohexyl]acetic acid	C(=O)(NC1(CCCCC1)CC(O)=O)N(CC2)CCN2c3c(cccn3)C	533.3 uM	887782	938538	913160	-1.93	-4.83	Y			Peptide & Nucleosome
+Primary Screen Hit	ChemBridge 74616539	3-(1-isoquinolinyl)-11-(2-methoxyethyl)-7-oxa-3,11-diazaspiro[5.6]dodecan-10-one	c1(nccc(cccc2)c12)N(CC3)CCC3(OCCC(=O)N4CCOC)C4	533.3 uM	882994	932523	907758.5	-2.05	-5.12				Peptide & Nucleosome
+Primary Screen Hit	ChemBridge 93597921	4-amino-3-[(2-{4-[(dimethylamino)methyl]phenyl}pyrrolidin-1-yl)carbonyl]phenol hydrochloride	C(=O)(c1cc(O)ccc1N)N2CCCC2c3ccc(cc3)CN(C)C	533.3 uM	654591	676189	665390	-7.81	-17.51				Peptide & Nucleosome
+Primary Screen Hit	ChemBridge 74096250	N-(azepan-2-ylmethyl)-4-[(2-hydroxyethyl)(methyl)amino]benzamide	C(=O)(c(cc1)ccc1N(C)CCO)NCC2CCCCCN2	533.3 uM	773006	843834	808420	-4.83	-9.41				Peptide & Nucleosome
+Primary Screen Hit	ChemBridge 97191254	N-(imidazo[1,2-a]pyridin-3-ylmethyl)-N-methyl-2-(pyrrolidin-1-ylmethyl)-1,3-thiazole-5-carboxamide	c1(cnc(CN2CCCC2)s1)C(=O)N(C)Cc3cnc(cccc4)n34	533.3 uM	792817	831767	812292	-4.33	-9.99				Peptide & Nucleosome
+Primary Screen Hit	ChemBridge 87964713	2-methyl-5-({methyl[3-(1H-pyrazol-1-yl)propyl]amino}methyl)pyrazolo[1,5-a]pyrimidin-7(4H)-one	n12c(NC(CN(C)CCCn3cccn3)=CC1=O)cc(C)n2	533.3 uM	939549	981671	960610	-0.63	-2.74	Y			Peptide & Nucleosome
+Primary Screen Hit	ChemBridge 42112577	N~4~-{[1-(4-fluorophenyl)pyrrolidin-3-yl]methyl}-6-methylpyrimidine-2,4-diamine	n1c(NCC(CCN2c3ccc(cc3)F)C2)cc(nc1N)C	533.3 uM	112528	117338	114933	-21.47	-44.53				Peptide & Nucleosome
+Primary Screen Hit	ChemBridge 72704164	5-{[(1S*,5R*)-3-(2,3-dihydro-1H-inden-2-yl)-3,6-diazabicyclo[3.2.2]non-6-yl]carbonyl}pyridine-2-carbonitrile	N1(C[C@@H](CC[C@@H]1C2)CN2C3Cc4c(cccc4)C3)C(=O)c(ccc(n5)C#N)c5	533.3 uM	605409	631663	618536	-9.05	-19.66				Peptide & Nucleosome
+Primary Screen Hit	ChemBridge 14215249	N-[(5-butyl-4,5,6,7-tetrahydropyrazolo[1,5-a]pyrazin-2-yl)methyl]-7-methylimidazo[1,2-a]pyridine-2-carboxamide	c1(C(=O)NCc(cc(n2CCN3CCCC)C3)n2)cn(c4n1)ccc(C)c4	533.3 uM	882346	912675	897510.5	-2.07	-6.08				Peptide & Nucleosome
+Primary Screen Hit	ChemBridge 89006586	4-{[4-(3,4-dihydroisoquinolin-2(1H)-yl)piperidin-1-yl]carbonyl}-6-isopropylpyrimidin-2-amine	c1(cc(C(C)C)nc(N)n1)C(=O)N(CC2)CCC2N3CCc(c4C3)cccc4	533.3 uM	786767	812972	799869.5	-4.48	-10.90				Peptide & Nucleosome
+Primary Screen Hit	ChemBridge 15771209	N'-[2,2-dimethyl-1-(pyrrolidin-1-ylmethyl)propyl]-N-[(8-methoxyquinolin-5-yl)methyl]-N-methylurea	C(=O)(N(C)Cc1ccc(c2c1cccn2)OC)NC(C(C)(C)C)CN3CCCC3	533.3 uM	717268	744699	730983.5	-6.23	-14.20				Peptide & Nucleosome
+Primary Screen Hit	ChemBridge 88637129	4-(2-hydroxyphenyl)-N-[(1-propylpyrrolidin-3-yl)methyl]piperazine-1-carboxamide	C(=O)(NCC(CCN1CCC)C1)N(CC2)CCN2c3ccccc3O	533.3 uM	376990	389078	383034	-14.81	-31.39				Peptide & Nucleosome
+Primary Screen Hit	ChemBridge 75077674	N-[1-methyl-2-(2-thienyl)ethyl]-3-pyridin-2-yl-1H-pyrazole-5-carboxamide	c1(C(=O)NC(C)Cc2cccs2)[nH]nc(c3ccccn3)c1	533.3 uM	770128	806329	788228.5	-4.90	-11.22				Peptide & Nucleosome
+Primary Screen Hit	ChemBridge 93018016	2,3,5-trimethyl-N-[1-(3-methylpyridin-2-yl)propyl]pyrazolo[1,5-a]pyrimidin-7-amine	n12c(nc(C)cc1NC(CC)c3c(cccn3)C)c(c(C)n2)C	533.3 uM	781074	828835	804954.5	-3.58	-3.22				Peptide & Nucleosome
+Primary Screen Hit	ChemBridge 52528177	N-(2-azepan-1-ylethyl)-4-(3-cyanopyridin-2-yl)-N-ethylbenzamide	C(=O)(c(cc1)ccc1c2ncccc2C#N)N(CC)CCN3CCCCCC3	533.3 uM	620731	684626	652678.5	-8.26	-6.38				Peptide & Nucleosome
+Primary Screen Hit	ChemBridge 92004874	N-{[3-(4-fluorophenyl)-1H-pyrazol-4-yl]methyl}-N'-[(1-isopropylpyrrolidin-2-yl)methyl]-N-methylurea	c1(c[nH]nc1c2ccc(cc2)F)CN(C)C(=O)NCC3CCCN3C(C)C	533.3 uM	750751	780072	765411.5	-4.47	-4.29				Peptide & Nucleosome
+Primary Screen Hit	ChemBridge 72957351	6-[({2-[(3-methylpyridin-4-yl)amino]ethyl}amino)methyl]-2-naphthol	c1(ccc(c2)O)c2ccc(CNCCNc3ccncc3C)c1	533.3 uM	641000	655507	648253.5	-7.67	-7.01				Peptide & Nucleosome
+Primary Screen Hit	ChemBridge 52782550	N-(8-pyrrolidin-1-ylquinolin-5-yl)-4-(1H-tetrazol-1-ylmethyl)benzamide	n1ncn(Cc(cc2)ccc2C(=O)Nc(cc3)c(cccn4)c4c3N5CCCC5)n1	533.3 uM	502238	528028	515133	-11.72	-9.80				Peptide & Nucleosome
+Primary Screen Hit	ChemBridge 20403526	2-(2-phenyl-1,3-thiazol-4-yl)-N-[1-(pyridin-4-ylmethyl)piperidin-4-yl]acetamide	n1c(csc1c2ccccc2)CC(=O)NC(CC3)CCN3Cc(cc4)ccn4	533.3 uM	716141	726503	721322	-5.48	-5.46				Peptide & Nucleosome
+Primary Screen Hit	ChemBridge 80590772	[5-(azepan-1-ylacetyl)-4,5,6,7-tetrahydropyrazolo[1,5-a]pyrazin-2-yl](phenyl)methanol	c1(C(O)c2ccccc2)cc(n(CCN3C(=O)CN4CCCCCC4)n1)C3	533.3 uM	717285	727431	722358	-5.44	-5.44				Peptide & Nucleosome
+Primary Screen Hit	ChemBridge 29817277	N-(3-cyano-4-methylphenyl)-N'-{[1-(4-methylpiperazin-1-yl)cyclopentyl]methyl}urea	N(CC1)(CCN1C)C2(CCCC2)CNC(=O)Nc(ccc(c3C#N)C)c3	533.3 uM	803324	848847	826085.5	-2.93	-2.78				Peptide & Nucleosome
+Primary Screen Hit	ChemBridge 86701901	N-cyclopropyl-1-isonicotinoyl-4',5'-dihydrospiro[piperidine-4,7'-thieno[2,3-c]pyran]-2'-carboxamide	s1c(C(=O)NC2CC2)cc(CCOC3(CC4)CCN4C(c(cc5)ccn5)=O)c13	533.3 uM	844630	878126	861378	-1.73	-2.14	Y			Peptide & Nucleosome
+Primary Screen Hit	ChemBridge 16635376	5-{[1-(5-chloro-2-pyrimidinyl)-4-piperidinyl]methyl}-2(1H)-pyridinone	c1(ncc(cn1)Cl)N2CCC(CC2)CC(C=CC(N3)=O)=C3	533.3 uM	708886	755395	732140.5	-5.69	-4.83				Peptide & Nucleosome
+Primary Screen Hit	ChemBridge 11235312	rac-(1S,5R)-N-[(7-fluoro-2-oxo-1,2-dihydroquinolin-3-yl)methyl]-10-oxo-3,9-diazabicyclo[3.3.2]decane-3-carboxamide	C1(CNC(=O)N(C[C@H](CCC2)NC(=O)[C@H]23)C3)=Cc(ccc(c4)F)c4NC1=O	533.3 uM	791445	827816	809630.5	-3.28	-3.24				Peptide & Nucleosome
+Primary Screen Hit	ChemBridge 67103989	3-[(2-butyl-2,5-dihydro-1H-pyrrol-1-yl)carbonyl]-1-methyl-1,4,6,7-tetrahydro-5H-indazol-5-one	c1(C(=O)N2CC=CC2CCCC)nn(c(CCC(=O)C3)c13)C	533.3 uM	126099	131978	129038.5	-22.71	-18.47				Peptide & Nucleosome
+Primary Screen Hit	ChemBridge 65498524	2-[1-(3,4-difluorobenzyl)-3-oxo-2-piperazinyl]-N-isobutylacetamide	N1(CCNC(=O)C1CC(=O)NCC(C)C)Cc(ccc(c2F)F)c2	533.3 uM	567310	593232	580271	-9.82	-8.38				Peptide & Nucleosome
+Primary Screen Hit	ChemBridge 68218359	2,6-dimethoxy-N-[(3-methyl-5,6,7,8-tetrahydro-2,7-naphthyridin-4-yl)methyl]nicotinamide	c1(ccc(nc1OC)OC)C(=O)NCc2c(C)ncc(CN3)c2CC3	533.3 uM	683598	722419	703008.5	-6.43	-5.55				Peptide & Nucleosome
+Primary Screen Hit	ChemBridge 99632347	(1R*,5R*)-3-{[3-(3-methoxyphenyl)-1H-pyrazol-5-yl]carbonyl}-6-propyl-3,6-diazabicyclo[3.2.2]nonane	c1([nH]nc(c2cccc(OC)c2)c1)C(=O)N3C[C@H](CC[C@@H]4C3)CN4CCC	533.3 uM	301720	307238	304479	-17.58	-14.64				Peptide & Nucleosome
+Primary Screen Hit	ChemBridge 80867184	2-(3,4-dihydro-2H-chromen-6-ylcarbonyl)-1,2,3,4-tetrahydroisoquinoline-3-carboxylic acid	N1(Cc2c(CC1C(O)=O)cccc2)C(=O)c3ccc4c(CCCO4)c3	533.3 uM	687177	695657	691417	-2.84	-3.48				Peptide & Nucleosome
+Primary Screen Hit	ChemBridge 85363813	3-benzyl-3-[2-(1,4-diazepan-1-yl)-2-oxoethyl]-1-methyl-1,3-dihydro-2H-indol-2-one hydrochloride	C1(Cc2ccccc2)(CC(=O)N(CC3)CCCN3)c(cccc4)c4N(C)C1=O	533.3 uM	694187	701754	697970.5	-2.46	-3.22				Peptide & Nucleosome
+Primary Screen Hit	ChemBridge 87380808	5-({methyl[(2-methyl-2,3-dihydro-1H-isoindol-5-yl)methyl]amino}methyl)-N-(tetrahydrofuran-2-ylmethyl)pyrimidin-2-amine	c1(NCC2CCCO2)ncc(cn1)CN(C)Cc(ccc(c3C4)CN4C)c3	533.3 uM	659432	584631	622031.5	-4.36	-8.18				Peptide & Nucleosome
+Primary Screen Hit	ChemBridge 17409243	(5S)-5-{[(4-pyridinylmethyl)({3-[4-(trifluoromethyl)phenyl]-1,2,4-oxadiazol-5-yl}methyl)amino]methyl}-2-pyrrolidinone	n1c(CN(Cc(cc2)ccn2)C[C@@H]3CCC(=O)N3)onc1c(cc4)ccc4C(F)(F)F	533.3 uM	699784	720543	710163.5	-2.15	-2.43				Peptide & Nucleosome
+Primary Screen Hit	ChemBridge 61457212	2-[1-(2,3-dihydro-1H-inden-2-yl)-3-oxo-2-piperazinyl]-N-(2-hydroxyethyl)-N-isopropylacetamide	N1(CCNC(=O)C1CC(=O)N(CCO)C(C)C)C2Cc(c3C2)cccc3	533.3 uM	681318	688971	685144.5	-3.16	-3.76				Peptide & Nucleosome
+Primary Screen Hit	ChemBridge 68047303	N-[2-(dimethylamino)ethyl]-3-(2-hydroxyphenyl)-N-(4-methylbenzyl)-1H-pyrazole-5-carboxamide	c1(C(=O)N(CCN(C)C)Cc(cc2)ccc2C)[nH]nc(c3ccccc3O)c1	533.3 uM	459374	521774	490574	-15.30	-10.85				Peptide & Nucleosome
+Primary Screen Hit	ChemBridge 33979970	6,7-dimethoxy-2-[(1-methyl-1H-imidazol-2-yl)carbonyl]-1,2,3,4-tetrahydroisoquinoline	c1(nccn1C)C(=O)N(CCc(c23)cc(c(OC)c2)OC)C3	533.3 uM	684851	720117	702484	-2.97	-2.45				Peptide & Nucleosome
+Primary Screen Hit	ChemBridge 74808522	7-{[2-(trifluoromethyl)morpholin-4-yl]carbonyl}quinolin-8-ol	c1(ccc(c2c1O)cccn2)C(=O)N(CCOC3C(F)(F)F)C3	533.3 uM	216607	226414	221510.5	-28.57	-23.35				Peptide & Nucleosome
+Primary Screen Hit	ChemBridge 97197323	N-[(3R*,4S*)-1-(2-amino-6-methyl-4-pyrimidinyl)-4-cyclopropyl-3-pyrrolidinyl]-3-methoxy-2,2-dimethylpropanamide hydrochloride	N(C[C@@H]([C@H]1C2CC2)NC(=O)C(C)(C)COC)(C1)c3cc(C)nc(N)n3	533.3 uM	665164	691576	678370	-4.05	-3.65				Peptide & Nucleosome
+Primary Screen Hit	ChemBridge 73539936	7-[2-(2-methyl-4-pyrimidinyl)-1H-imidazol-1-yl]-3,4-dihydro-1(2H)-isoquinolinone	n1(ccnc1c2ccnc(C)n2)c(ccc(c34)CCNC3=O)c4	533.3 uM	603053	619521	611287	-7.44	-6.71				Peptide & Nucleosome
+Primary Screen Hit	ChemBridge 44148782	(3S*,4R*)-1-[(3-isopropyl-1H-pyrazol-5-yl)carbonyl]-4-(2-methoxyphenyl)pyrrolidine-3-carboxylic acid	c1([nH]nc(C(C)C)c1)C(=O)N(C[C@H]([C@@H]2C(O)=O)c3ccccc3OC)C2	533.3 uM	680211	707763	693987	-3.22	-2.97				Peptide & Nucleosome
+Primary Screen Hit	ChemBridge 30010034	2-(4-pyridinyl)-N-[4-(1-pyrrolidinyl)butyl]-4,5,6,7-tetrahydro-1,3-benzothiazole-5-carboxamide	n1c2c(sc1c(cc3)ccn3)CCC(C2)C(NCCCCN4CCCC4)=O	533.3 uM	543881	583623	563752	-10.68	-8.23				Peptide & Nucleosome
+Primary Screen Hit	ChemBridge 98024821	N-{[2-(3-hydroxy-4-methoxyphenyl)-5-methyl-1,3-oxazol-4-yl]methyl}-1H-benzimidazole-5-carboxamide	n1c(CNC(=O)c(ccc(c23)[nH]cn2)c3)c(oc1c4ccc(c(O)c4)OC)C	533.3 uM	613480	629432	621456	-6.87	-6.29				Peptide & Nucleosome
+Primary Screen Hit	ChemBridge 32456893	N-ethyl-N'-isoquinolin-5-yl-N-(tetrahydro-2H-pyran-2-ylmethyl)urea	C(=O)(N(CC)CC1CCCCO1)Nc2cccc(cn3)c2cc3	533.3 uM	587816	604766	596291	-8.27	-7.33				Peptide & Nucleosome
+Primary Screen Hit	ChemBridge 40554630	6-methyl-2-[(4aS*,8aR*)-1-[2-(methylamino)ethyl]-2-oxooctahydro-1,6-naphthyridin-6(2H)-yl]nicotinonitrile dihydrochloride	c1(nc(C)ccc1C#N)N(CC2)C[C@@H]([C@@H]23)CCC(=O)N3CCNC	533.3 uM	595447	621237	608342	-7.86	-6.63				Peptide & Nucleosome
+Primary Screen Hit	ChemBridge 23760242	N-[(5-methyl-2-thienyl)methyl]-N-(pyridin-4-ylmethyl)imidazo[1,2-a]pyridine-6-carboxamide	c(ccc1n2ccn1)(c2)C(=O)N(Cc(cc3)ccn3)Cc4ccc(C)s4	533.3 uM	577200	615773	596486.5	-8.86	-6.86				Peptide & Nucleosome
+Primary Screen Hit	ChemBridge 29604143	6,7-dimethoxy-2-(1-{[3-(2-thienyl)-1,2,4-oxadiazol-5-yl]methyl}-4-piperidinyl)-1,2,3,4-tetrahydroisoquinoline	c1(c2cccs2)noc(CN(CC3)CCC3N(CCc(c45)cc(c(OC)c4)OC)C5)n1	533.3 uM	460815	507930	484372.5	-12.58	-9.73				Peptide & Nucleosome
+Primary Screen Hit	ChemBridge 17581924	2-{3-[1-(2,5-dihydro-1H-pyrrol-2-ylcarbonyl)piperidin-4-yl]propanoyl}-1,2,3,4-tetrahydroisoquinoline hydrochloride	N1(CCc(c2C1)cccc2)C(CCC(CC3)CCN3C(=O)C4C=CCN4)=O	533.3 uM	668328	707338	687833	-4.98	-3.72				Peptide & Nucleosome
+Primary Screen Hit	ChemBridge 75313338	1-methyl-5-[(2-methyl-5,11-dihydro[1]benzoxepino[3,4-d]pyrimidin-4-yl)amino]piperidin-2-one	c1(NC(CCC(N2C)=O)C2)nc(C)nc(COc(cccc3)c3C4)c14	533.3 uM	751476	738907	745191.5	-1.94	-2.77	Y			Peptide & Nucleosome
+Primary Screen Hit	ChemBridge 84315552	N-(3,4-dimethoxyphenyl)-1-[3-(methylthio)propanoyl]-3-piperidinamine	N1(CCCC(C1)Nc2ccc(c(OC)c2)OC)C(=O)CCSC	533.3 uM	679306	692345	685825.5	-4.58	-4.17				Peptide & Nucleosome
+Primary Screen Hit	ChemBridge 27373970	N-butyl-N'-(2-hydroxypyridin-3-yl)-N-(pyridin-3-ylmethyl)urea	C(=O)(N(CCCC)Cc(cccn1)c1)Nc2cccnc2O	533.3 uM	730680	748601	739640.5	-2.70	-2.48				Peptide & Nucleosome
+Primary Screen Hit	ChemBridge 31050084	4-(1-azepanyl)-5-methyl-N-(4-pyridinylmethyl)thieno[2,3-d]pyrimidine-6-carboxamide	c12c(ncnc1N3CCCCCC3)sc(C(=O)NCc(cc4)ccn4)c2C	533.3 uM	740915	770247	755581	-2.32	-1.82		Y		Peptide & Nucleosome
+Primary Screen Hit	ChemBridge 96011181	2-{[(4aS*,7aR*)-4-(cyclobutylcarbonyl)-6,6-dioxidohexahydrothieno[3,4-b]pyrazin-1(2H)-yl]carbonyl}-3-pyridinol	S(=O)(=O)(C[C@H]([C@@H]12)N(CCN1C(=O)c3c(cccn3)O)C(C(C4)CC4)=O)C2	533.3 uM	716082	739315	727698.5	-3.23	-2.76				Peptide & Nucleosome
+Primary Screen Hit	ChemBridge 25509711	2-[(2-chloro-4-fluorophenoxy)methyl]-N-methyl-N-[(5-methyl-1,2,4-oxadiazol-3-yl)methyl]-1,3-oxazole-4-carboxamide	c1(coc(COc2ccc(cc2Cl)F)n1)C(=O)N(C)Cc3noc(C)n3	533.3 uM	703309	717046	710177.5	-3.70	-3.43				Peptide & Nucleosome
+Primary Screen Hit	ChemBridge 22684952	N-(2-{[2-amino-6-(isopropylamino)pyrimidin-4-yl]amino}ethyl)isonicotinamide	n(c(NC(C)C)cc(n1)NCCNC(c(cc2)ccn2)=O)c1N	533.3 uM	696090	721362	708726	-3.96	-3.30				Peptide & Nucleosome
+Primary Screen Hit	ChemBridge 59310502	[(2S)-1-(5-methyl-2-{[1-(4-pyridinylmethyl)-4-piperidinyl]oxy}benzoyl)-2-pyrrolidinyl]methanol	C(=O)(N1CCC[C@H]1CO)c2cc(C)ccc2OC(CC3)CCN3Cc(cc4)ccn4	533.3 uM	723041	738035	730538	-2.98	-2.79				Peptide & Nucleosome
+Primary Screen Hit	ChemBridge 98801296	2-amino-7-{[1-(4-methoxyphenyl)cyclopentyl]carbonyl}-5,6,7,8-tetrahydropyrido[3,4-d]pyrimidin-4(3H)-one	C(CC1)(C2=O)=C(CN1C(=O)C3(CCCC3)c4ccc(cc4)OC)N=C(N)N2	533.3 uM	654381	659557	656969	-5.49	-5.16				Peptide & Nucleosome
+Primary Screen Hit	ChemBridge 43387648	3-[({[3-(4-chlorophenyl)-1H-pyrazol-4-yl]methyl}amino)methyl]pyrrolidin-3-ol dihydrochloride	c1(CNCC(C2)(O)CCN2)c[nH]nc1c3ccc(cc3)Cl	533.3 uM	629405	658111	643758	-6.41	-5.20				Peptide & Nucleosome
+Primary Screen Hit	ChemBridge 25698253	1-methyl-N-[2-(1-methylpiperidin-3-yl)ethyl]-4,5,6,7-tetrahydro-1H-indazole-3-carboxamide	c1(C(NCCC(CCCN2C)C2)=O)c3c(n(C)n1)CCCC3	533.3 uM	799952	768765	784358.5	-0.97	-2.74	Y			Nucleosome Only
+Primary Screen Hit	ChemBridge 46370421	4-(5-chloro-2-methylphenyl)-N-[2-(1H-imidazol-4-yl)ethyl]piperazine-1-carboxamide	C(NCCc1c[nH]cn1)(=O)N(CC2)CCN2c3c(C)ccc(Cl)c3	533.3 uM	475756	435712	455734	-7.63	-8.67				Nucleosome Only
+Primary Screen Hit	ChemBridge 96666248	N-[(6-methylquinolin-5-yl)methyl]-5-oxo-1-phenyl-2,5-dihydro-1H-pyrazole-3-carboxamide	C1(C(=O)NCc2c(C)ccc3c2cccn3)=CC(N(c4ccccc4)N1)=O	533.3 uM	433257	584813	509035	-8.51	-6.02				Nucleosome Only
+Primary Screen Hit	ChemBridge 92088931	1-[(3-cyclopropyl-1H-pyrazol-5-yl)carbonyl]-4-(3,4-dichlorophenyl)piperazine	c1([nH]nc(C2CC2)c1)C(=O)N(CC3)CCN3c4ccc(c(Cl)c4)Cl	533.3 uM	728896	728906	728901	-2.43	-3.45				Nucleosome Only
+Primary Screen Hit	ChemBridge 42440502	1-[1-(6-ethyl-1-methyl-1H-pyrazolo[3,4-d]pyrimidin-4-yl)-4-piperidinyl]-1,3-dihydro-2H-benzimidazol-2-one	C1(=O)Nc(c2N1C(CC3)CCN3c4nc(CC)nc(n(n5)C)c4c5)cccc2	533.3 uM	732964	798673	765818.5	-2.35	-2.21				Nucleosome Only
+Primary Screen Hit	ChemBridge 45891825	5,7-dimethyl-N-(2-oxopyrrolidin-3-yl)-2,1,3-benzoxadiazole-4-sulfonamide	S(=O)(=O)(NC1CCNC1=O)c2c(C)cc(c(non3)c23)C	533.3 uM	821681	773158	797419.5	-0.53	-2.66	Y			Nucleosome Only
+Primary Screen Hit	ChemBridge 80248560	1-[3-(1H-imidazol-2-yl)benzoyl]-4-(4-methoxyphenoxy)piperidine	C(=O)(c(cccc1c2[nH]ccn2)c1)N3CCC(CC3)Oc(cc4)ccc4OC	533.3 uM	443681	446480	445080.5	-8.29	-8.48				Nucleosome Only
+Primary Screen Hit	ChemBridge 66054738	4-(4-methyl-1H-pyrazol-1-yl)-1-[(3-methylquinoxalin-2-yl)methyl]piperidine-4-carboxylic acid	C1(CCN(CC1)Cc2c(C)nc3c(cccc3)n2)(C(O)=O)n4cc(cn4)C	533.3 uM	655816	663026	659421	-3.93	-4.63				Nucleosome Only
+Primary Screen Hit	ChemBridge 58887414	2-({2-[3-(1H-imidazol-2-yl)-1-piperidinyl]-2-oxoethyl}thio)pyrimidine	N(CCCC1c2n([H])ccn2)(C1)C(=O)CSc3ncccn3	533.3 uM	432964	591710	512337	-13.02	-5.56				Nucleosome Only
+Primary Screen Hit	ChemBridge 27602568	N-{[4-(dimethylamino)tetrahydro-2H-pyran-4-yl]methyl}-2-[(5-methyl-1H-benzimidazol-2-yl)thio]acetamide	c1(SCC(=O)NCC(CC2)(CCO2)N(C)C)[nH]c(c3n1)ccc(C)c3	533.3 uM	630768	831137	730952.5	-3.34	0.14		Y		Nucleosome Only
+Primary Screen Hit	ChemBridge 10927456	4-[(4-benzyl-1,4,6,7-tetrahydro-5H-imidazo[4,5-c]pyridin-5-yl)methyl]-2,1,3-benzoxadiazole	c1(c(CCN2Cc3cccc(non4)c34)[nH]cn1)C2Cc5ccccc5	533.3 uM	151527	168282	159904.5	-26.80	-15.63				Nucleosome Only
+Primary Screen Hit	ChemBridge 91125188	6-[(3,5-dimethylisoxazol-4-yl)methyl]-N-[2-(1-methylpyrrolidin-2-yl)ethyl]-4,5,6,7-tetrahydrothieno[2,3-c]pyridine-3-carboxamide	c1(C(NCCC2CCCN2C)=O)csc(CN3Cc(c4C)c(C)on4)c1CC3	533.3 uM	666118	681894	674006	-6.94	-6.44				Nucleosome Only
+Primary Screen Hit	ChemBridge 74104304	1-(2,3-dihydro-1H-inden-2-yl)-5-[(5-methyl-1H-pyrazol-1-yl)methyl]-3-(tetrahydro-2H-pyran-4-yl)-1H-1,2,4-triazole	c1(Cn2c(C)ccn2)nc(nn1C3Cc(c4C3)cccc4)C(CC5)CCO5	533.3 uM	424840	450061	437450.5	-17.18	-13.88				Nucleosome Only
+Primary Screen Hit	ChemBridge 37790775	2-cyclopropyl-N-(1-methylpiperidin-4-yl)-6-oxo-N-(pyridin-4-ylmethyl)-1,6-dihydropyrimidine-5-carboxamide	C1(=CN=C(NC1=O)C2CC2)C(=O)N(Cc(cc3)ccn3)C(CC4)CCN4C	533.3 uM	690133	724653	707393	-2.68	-2.25				Nucleosome Only
+Primary Screen Hit	ChemBridge 46143746	(3S*,4R*)-1-[3-(methylthio)benzyl]-4-pyridin-4-ylpyrrolidine-3-carboxylic acid	[C@H](C1)(C(O)=O)[C@H](c(cc2)ccn2)CN1Cc3cccc(c3)SC	533.3 uM	573648	599258	586453	-8.45	-6.97				Nucleosome Only
+Primary Screen Hit	ChemBridge 64958526	5-cyclopropyl-N-ethyl-N-(2-hydroxyethyl)-1-(9-methoxy-5,6-dihydrobenzo[h]quinazolin-2-yl)-1H-pyrazole-4-carboxamide	c(cnn1c2ncc(c3n2)CCc(ccc(OC)c4)c34)(C(=O)N(CC)CCO)c1C5CC5	533.3 uM	669250	670204	669727	-4.95	-4.84				Nucleosome Only
+Primary Screen Hit	ChemBridge 42518874	N-[(8-syn)-3-(2-chlorobenzyl)-3-azabicyclo[3.2.1]oct-8-yl]-2-ethyl-1H-imidazole-4-sulfonamide	S(=O)(=O)(N[C@@H]([C@H]1C2)[C@@H](CC1)CN2Cc3ccccc3Cl)c4c[nH]c(CC)n4	533.3 uM	723679	753558	738618.5	-2.54	-3.01				Peptide Only
+Primary Screen Hit	ChemBridge 57418263	1-[(6-chloro-2H-chromen-3-yl)methyl]-4-(1H-imidazol-1-ylmethyl)piperidin-4-ol	C(COc(c12)ccc(Cl)c1)(CN(CC3)CCC3(O)Cn(ccn4)c4)=C2	533.3 uM	646196	650333	648264.5	-4.13	-4.85				Peptide Only
+Primary Screen Hit	ChemBridge 77165815	3-[(3-hydroxyazetidin-1-yl)methyl]-5,6,7-trimethoxyquinolin-2(1H)-one	C(CN(C1)CC1O)(C(=O)Nc(c23)cc(c(OC)c2OC)OC)=C3	533.3 uM	599579	613530	606554.5	-5.09	-5.51				Peptide Only
+Primary Screen Hit	ChemBridge 18254991	2-amino-N-[rac-(3S,4R)-4-methoxypiperidin-3-yl]-5,6,7,8-tetrahydroquinazoline-4-carboxamide hydrochloride	c1(c2c(CCCC2)nc(N)n1)C(=O)N[C@@H](C3)[C@H](OC)CCN3	533.3 uM	692319	716311	704315	-3.19	-3.68				Peptide Only
+Primary Screen Hit	ChemBridge 78562298	N-[3-(1-azepanyl)propyl]-N,1-dimethyl-6-(4-pyridinyl)-1H-pyrazolo[3,4-d]pyrimidin-4-amine	c(c1)(c(N(C)CCCN2CCCCCC2)nc(n3)c(cc4)ccn4)c3n(n1)C	533.3 uM	781256	781648	781452	-1.36	-2.51	Y			Peptide Only
+Primary Screen Hit	ChemBridge 22492004	N-methyl-2-[1-(2,3,5-trimethylpyrazolo[1,5-a]pyrimidin-7-yl)-4-piperidinyl]acetamide	n12c(nc(C)cc1N3CCC(CC3)CC(NC)=O)c(c(C)n2)C	533.3 uM	656691	679439	668065	-3.92	-4.33				Peptide Only
+Primary Screen Hit	ChemBridge 10553412	1-{2-[(5-phenylpyrazolo[1,5-a]pyrimidin-7-yl)amino]ethyl}-3-piperidinecarboxamide	n12c(ccn1)nc(c3ccccc3)cc2NCCN(CCCC4C(N)=O)C4	533.3 uM	325855	386114	355984.5	-18.27	-10.45				Peptide Only
+Primary Screen Hit	ChemBridge 43597002	6,7-dimethoxy-N~2~-[(2-methyl-1,3-thiazol-4-yl)methyl]quinazoline-2,4-diamine	n(c(NCc1csc(C)n1)nc(c23)cc(c(OC)c2)OC)c3N	533.3 uM	678627	626691	652659	-1.00	-4.72	Y			Peptide Only
+Primary Screen Hit	ChemBridge 81356923	rel-(3aS,6aS)-4-[(5-chloro-3-ethyl-1-methyl-1H-pyrazol-4-yl)methyl]-1-[2-(4-ethyl-4H-1,2,4-triazol-3-yl)ethyl]hexahydropyrrolo[3,2-b]pyrrol-2(1H)-one	c1(CN2CC[C@H]3[C@@H]2CC(N3CCc4nncn4CC)=O)c(CC)nn(C)c1Cl	533.3 uM	651554	754116	702835	-2.32	-1.69		Y		Peptide Only
+Primary Screen Hit	ChemBridge 74373163	2-methyl-N-[1-(methylsulfonyl)piperidin-4-yl]-5-propylpyrimidin-4-amine	S(C)(=O)(=O)N1CCC(CC1)Nc2c(CCC)cnc(C)n2	533.3 uM	655973	756846	706409.5	-2.11	-1.63		Y		Peptide Only
+Primary Screen Hit	ChemBridge 60191271	7-methoxy-2-methyl-N-(4-pyrrolidin-1-ylbutyl)quinoline-4-carboxamide	c1(nc(C)cc2C(NCCCCN3CCCC3)=O)c2ccc(OC)c1	533.3 uM	516399	603609	560004	-8.94	-5.27				Peptide Only
+Primary Screen Hit	ChemBridge 83109323	N-(5-isoxazolylmethyl)-N-methyl-3-(4-piperidinylmethyl)benzamide hydrochloride	C(=O)(c1cccc(CC(CC2)CCN2)c1)N(C)Cc(ccn3)o3	533.3 uM	618068	712598	665333	-3.96	-2.68				Peptide Only
+Primary Screen Hit	ChemBridge 93719557	2,6-difluoro-N-[(8-syn)-3-(tetrahydro-3-furanylmethyl)-3-azabicyclo[3.2.1]oct-8-yl]benzenesulfonamide	S(=O)(=O)(c1c(cccc1F)F)N[C@@H]([C@H]2C3)[C@@H](CC2)CN3CC(CCO4)C4	533.3 uM	882450	975496	928973	-2.07	-3.04				Peptide Only
+Primary Screen Hit	ChemBridge 13481725	4-(3-{[(2-piperidin-1-ylpyrimidin-5-yl)methyl]amino}propyl)-1,3-thiazol-2-amine	c1(N2CCCCC2)ncc(cn1)CNCCCc3csc(N)n3	533.3 uM	510262	600020	555141	-11.45	-21.19				Peptide Only
+Primary Screen Hit	ChemBridge 64742663	N-[(3S,4S)-4-methoxy-3-pyrrolidinyl]-2,7,8-trimethyl-4-quinolinecarboxamide	c1(nc(C)cc2C(=O)N[C@@H](C3)[C@@H](OC)CN3)c2ccc(C)c1C	533.3 uM	711722	761449	736585.5	-6.37	-13.39				Peptide Only
+Primary Screen Hit	ChemBridge 32243006	N-[(3R,5S)-5-(hydroxymethyl)-1-methylpyrrolidin-3-yl]-3-(5-methoxypyridin-3-yl)benzamide	N(C)(C1)[C@H](CO)C[C@H]1NC(=O)c2cccc(c(c3)cc(cn3)OC)c2	533.3 uM	773705	829779	801742	-4.81	-10.08				Peptide Only
+Primary Screen Hit	ChemBridge 56355924	5-({3-[2-(2,4-difluorophenyl)ethyl]-1-piperidinyl}methyl)-6-methyl-2,4(1H,3H)-pyrimidinedione	C(CN1CCCC(C1)CCc2ccc(cc2F)F)(=C(C)NC(N3)=O)C3=O	533.3 uM	771210	817201	794205.5	-4.87	-10.69				Peptide Only
+Primary Screen Hit	ChemBridge 57083107	(3-{6-[4-(3-methoxyphenyl)piperazin-1-yl]pyrimidin-4-yl}cyclobutyl)amine dihydrochloride	c1(ncnc(C2CC(C2)N)c1)N(CC3)CCN3c4cccc(OC)c4	533.3 uM	329709	369092	349400.5	-16.00	-32.36				Peptide Only
+Primary Screen Hit	ChemBridge 13946928	((1S)-1-{1-[2-(6,7-dihydrothieno[3,2-c]pyridin-5(4H)-yl)-2-oxoethyl]-3-methyl-1H-1,2,4-triazol-5-yl}-2-methylpropyl)amine hydrochloride	n1(CC(=O)N(CCc2c3ccs2)C3)nc(nc1[C@H](C(C)C)N)C	533.3 uM	888027	909866	898946.5	-1.93	-6.21	Y			Peptide Only
+Primary Screen Hit	ChemBridge 82150682	4-(3-aminopropoxy)-N-(1-pyrazin-2-ylpiperidin-3-yl)benzamide	N1(CCCC(C1)NC(=O)c2ccc(cc2)OCCCN)c3cnccn3	533.3 uM	668924	690807	679865.5	-7.45	-16.80				Peptide Only
+Primary Screen Hit	ChemBridge 69954821	3-[(3R*,3aR*,7aR*)-1-(1H-imidazol-4-ylmethyl)octahydro-4,7-ethanopyrrolo[3,2-b]pyridin-3-yl]phenol	N(Cc1c[nH]cn1)(C2)[C@@H]3C(C4)CCN(C4)[C@@H]3[C@@H]2c5cccc(O)c5	533.3 uM	508724	599718	554221	-11.49	-21.21				Peptide Only
+Primary Screen Hit	ChemBridge 97316948	N-[(6-methylimidazo[1,2-a]pyridin-2-yl)methyl]-4-(pentanoylamino)benzamide	n1(cc(n2)CNC(=O)c3ccc(cc3)NC(CCCC)=O)c2ccc(C)c1	533.3 uM	778635	797620	788127.5	-4.68	-11.64				Peptide Only
+Primary Screen Hit	ChemBridge 91499482	3-(2-oxo-2-{4-[1-(4-pyridinylmethyl)-1H-imidazol-2-yl]-1-piperidinyl}ethyl)morpholine	n1(Cc(cc2)ccn2)ccnc1C(CC3)CCN3C(=O)CC4COCCN4	533.3 uM	856293	902773	879533	-2.73	-6.56				Peptide Only
+Primary Screen Hit	ChemBridge 92656406	4-[4-(1H-imidazol-1-ylmethyl)piperidin-1-yl]-6-(tetrahydrofuran-3-yl)pyrimidin-2-amine	n1c(N)nc(cc1N2CCC(CC2)Cn(ccn3)c3)C(CCO4)C4	533.3 uM	854536	867648	861092	-2.77	-8.25				Peptide Only
+Primary Screen Hit	ChemBridge 45493984	N-[2-(4,5,6,7-tetrahydro-1,3-benzothiazol-2-yl)ethyl]-N'-[1,2,4]triazolo[4,3-a]pyridin-8-ylurea	c12n(cccc1NC(NCCc3sc(c4n3)CCCC4)=O)cnn2	533.3 uM	776885	817236	797060.5	-4.73	-10.69				Peptide Only
+Primary Screen Hit	ChemBridge 12521047	3-{1-[3-(1-pyrrolidinylmethyl)phenyl]-1H-imidazol-2-yl}pyrazolo[1,5-a]pyrimidine	c1(cnn(cccn2)c12)c3nccn3c4cccc(CN5CCCC5)c4	533.3 uM	687037	746616	716826.5	-6.33	-5.02				Peptide Only
+Primary Screen Hit	ChemBridge 95856717	N-[(3-hydroxypiperidin-3-yl)methyl]-4'-isoxazol-5-ylbiphenyl-3-carboxamide	C(=O)(NCC(CCCN1)(C1)O)c2cccc(c(cc3)ccc3c(ccn4)o4)c2	533.3 uM	683377	734528	708952.5	-6.43	-5.28				Peptide Only
+Primary Screen Hit	ChemBridge 39647617	1-{3-[5-(1,3-oxazol-5-yl)-2-thienyl]benzoyl}-1,4-diazepane hydrochloride	s1c(c(cccc2C(=O)N(CC3)CCCN3)c2)ccc1c(c4)ocn4	533.3 uM	449028	438709	443868.5	-13.28	-11.76				Peptide Only
+Primary Screen Hit	ChemBridge 38390353	N-(3-azepan-1-yl-2-hydroxypropyl)-4-oxo-3,4-dihydrophthalazine-1-carboxamide	C1(C(=O)NCC(O)CN2CCCCCC2)=NNC(=O)c(cccc3)c13	533.3 uM	728714	778388	753551	-5.11	-4.32				Peptide Only
+Primary Screen Hit	ChemBridge 29018546	N-[(5-chloro-1H-benzimidazol-2-yl)methyl]-N'-[rac-(3S,4S)-1-isopropyl-4-methoxypyrrolidin-3-yl]-N-methylurea	n1c2c([nH]c1CN(C)C(=O)N[C@H]([C@@H](OC)CN3C(C)C)C3)ccc(Cl)c2	533.3 uM	750026	798726	774376	-4.49	-3.88				Peptide Only
+Primary Screen Hit	ChemBridge 63488726	4-[rac-(3aR,6R,7aS)-3a-methoxy-6-(pyridin-2-yloxy)octahydro-1H-indol-1-yl]-N,6-dimethylpyrimidin-2-amine	c1(cc(C)nc(NC)n1)N2CC[C@](OC)(CC[C@@H](Oc3ccccn3)C4)[C@@H]24	533.3 uM	797461	844210	820835.5	-3.10	-2.88				Peptide Only
+Primary Screen Hit	ChemBridge 20534818	{(3R*,4R*)-4-(azepan-1-ylmethyl)-1-[(2-cyclohexylpyrimidin-5-yl)methyl]pyrrolidin-3-yl}methanol	N(Cc(cn1)cnc1C2CCCCC2)(C[C@@H]([C@@H]3CN4CCCCCC4)CO)C3	533.3 uM	458052	502563	480307.5	-13.01	-10.36				Peptide Only
+Primary Screen Hit	ChemBridge 55517816	4-methyl-6-(4-{[4-(pyrrolidin-1-ylmethyl)-2-thienyl]methyl}piperazin-1-yl)pyrimidin-2-amine	n1c(N)nc(cc1N(CC2)CCN2Cc(c3)scc3CN4CCCC4)C	533.3 uM	564862	605795	585328.5	-9.90	-8.10				Peptide Only
+Primary Screen Hit	ChemBridge 43338870	5-fluoro-2-(1-{[1-(2-methoxyethyl)-1H-imidazol-5-yl]methyl}piperidin-4-yl)-1H-benzimidazole	n1c2c([nH]c1C(CC3)CCN3Cc4cncn4CCOC)ccc(F)c2	533.3 uM	746099	790496	768297.5	-4.60	-4.06				Peptide Only
+Primary Screen Hit	ChemBridge 54989397	N~1~-(tert-butyl)-N~2~-({[4-(2-methoxyphenoxy)phenyl]amino}carbonyl)glycinamide	C(=O)(NCC(=O)NC(C)(C)C)Nc(cc1)ccc1Oc2ccccc2OC	533.3 uM	775499	792185	783842	-3.74	-4.02				Peptide Only
+Primary Screen Hit	ChemBridge 86665553	N-[2-({[(2-pyrazin-2-yl-1,3-thiazol-4-yl)methyl]amino}methyl)quinolin-6-yl]acetamide	c1(c2cnccn2)scc(CNCc3ccc(c(ccc4NC(C)=O)n3)c4)n1	533.3 uM	601367	645372	623369.5	-8.83	-7.23				Peptide Only
+Primary Screen Hit	ChemBridge 85955361	2-[1-(5-methoxy-2-methylphenyl)-1H-imidazol-2-yl]-5,6,7,8-tetrahydro-4H-pyrazolo[1,5-a][1,4]diazepine hydrochloride	c1(cc(n(CCCN2)n1)C2)c3nccn3c4c(C)ccc(OC)c4	533.3 uM	538777	548277	543527	-10.66	-9.36				Peptide Only
+Primary Screen Hit	ChemBridge 96059040	(2E)-3-(1,3-benzothiazol-2-yl)-N-[(5-cyclopropyl-1,2,4-oxadiazol-3-yl)methyl]-N-ethylacrylamide	n1c(CN(CC)C(=O)\C=C\c2sc(c3n2)cccc3)noc1C4CC4	533.3 uM	635436	683071	659253.5	-7.83	-6.41				Peptide Only
+Primary Screen Hit	ChemBridge 48346773	3-amino-2-methyl-N-{[4-(4-methylphenyl)-5-pyridin-2-yl-1H-imidazol-2-yl]methyl}propanamide hydrochloride	c1(c2ccccn2)[nH]c(nc1c3ccc(cc3)C)CNC(=O)C(C)CN	533.3 uM	557557	587066	572311.5	-10.11	-8.51				Peptide Only
+Primary Screen Hit	ChemBridge 29033535	N-[rac-(3R,4R)-4-hydroxypiperidin-3-yl]-N'-(3'-methylbiphenyl-4-yl)urea hydrochloride	C(=O)(Nc(cc1)ccc1c2cccc(C)c2)N[C@H](C3)[C@H](O)CCN3	533.3 uM	604281	634123	619202	-8.74	-7.48				Peptide Only
+Primary Screen Hit	ChemBridge 51525524	1'-(2-amino-5-ethylpyrimidin-4-yl)-1,4'-bipiperidine-3-carboxylic acid diformate	n1c(N)ncc(CC)c1N(CC2)CCC2N(CCCC3C(O)=O)C3	533.3 uM	809569	841475	825522	-2.75	-2.94				Peptide Only
+Primary Screen Hit	ChemBridge 68423768	2-azocan-1-yl-N-[2-(1H-imidazol-1-yl)benzyl]acetamide	n(ccn1)(c1)c2ccccc2CNC(=O)CN3CCCCCCC3	533.3 uM	477721	498516	488118.5	-12.44	-10.45				Peptide Only
+Primary Screen Hit	ChemBridge 12993085	N-[3-(3,5-dimethyl-1H-pyrazol-4-yl)propyl]-2-pyridin-2-yl-5,6,7,8-tetrahydropyrido[3,4-d]pyrimidin-4-amine	n1c(NCCCc(c2C)c(C)[nH]n2)c(CC3)c(nc1c4ccccn4)CN3	533.3 uM	642461	670434	656447.5	-5.29	-4.55				Peptide Only
+Primary Screen Hit	ChemBridge 86033711	(1R*,3S*)-3-(2-aminoethoxy)-7-(3-morpholin-4-ylbenzyl)-7-azaspiro[3.5]nonan-1-ol dihydrochloride	C1(CC2)(CCN2Cc(cccc3N(CC4)CCO4)c3)[C@@H](OCCN)C[C@H]1O	533.3 uM	590367	635063	612715	-8.14	-6.05				Peptide Only
+Primary Screen Hit	ChemBridge 43218872	N-[3-(1H-imidazol-5-yl)phenyl]-2-[methyl(pyridin-4-ylmethyl)amino]acetamide	c(c1)(c2cccc(c2)NC(CN(C)Cc(cc3)ccn3)=O)[nH]cn1	533.3 uM	484190	515983	500086.5	-13.94	-11.09				Peptide Only
+Primary Screen Hit	ChemBridge 59110972	8-benzyl-2-[2-(1H-imidazol-4-yl)ethyl]-2,8-diazaspiro[5.5]undecan-3-one	N1(CCc2c[nH]cn2)CC(CCCN3Cc4ccccc4)(CCC1=O)C3	533.3 uM	632386	673364	652875	-5.84	-4.43				Peptide Only
+Primary Screen Hit	ChemBridge 14737027	1-[3-(3-{1-[2-(dimethylamino)ethyl]-1H-imidazol-2-yl}-1-piperidinyl)-3-oxopropyl]-2-pyrrolidinone	c1(nccn1CCN(C)C)C(CCCN2C(=O)CCN3CCCC3=O)C2	533.3 uM	699095	746359	722727	-2.19	-1.33		Y		Peptide Only
+Primary Screen Hit	ChemBridge 91759265	3-[2-(1,4'-bipiperidin-1'-yl)-2-oxoethyl]-4-(1-naphthylmethyl)-2-piperazinone	C(C(=O)N(CC1)CCC1N2CCCCC2)C3C(=O)NCCN3Cc4cccc(cccc5)c45	533.3 uM	374094	369048	371571	-19.96	-17.31				Peptide Only
+Primary Screen Hit	ChemBridge 91769354	6-(4-methoxy-2,5-dimethylphenyl)-3,5-dihydroimidazo[4,5-f]benzimidazol-2(1H)-one	c1(c2c(C)cc(c(C)c2)OC)[nH]c(c(c3)n1)cc(c3NC4=O)N4	533.3 uM	668884	683699	676291.5	-3.84	-3.99				Peptide Only
+Primary Screen Hit	ChemBridge 83786199	1-{2-[(4-chlorobenzyl)oxy]ethyl}-1H,1'H-2,4'-biimidazole	c1(nccn1CCOCc(cc2)ccc2Cl)c3c[nH]cn3	533.3 uM	419446	442729	431087.5	-17.48	-14.19				Peptide Only
+Primary Screen Hit	ChemBridge 76358786	4-(2,6-dimethylpyridin-3-yl)-N-(4,5,6,7-tetrahydropyrazolo[1,5-a]pyrazin-2-ylmethyl)pyrimidin-2-amine dihydrochloride	n1(CC2)c(CN2[H])cc(CNc3nccc(n3)c(ccc(n4)C)c4C)n1	533.3 uM	640100	655892	647996	-5.42	-5.17				Peptide Only
+Primary Screen Hit	ChemBridge 43916398	2-imidazo[1,2-a]pyridin-2-yl-7-(2-methoxyphenyl)-5,6,7,8-tetrahydroimidazo[4,5-c]azepin-4(1H)-one	c12c(CC(CNC1=O)c3ccccc3OC)[nH]c(n2)c4cn5c(cccc5)n4	533.3 uM	586851	599693	593272	-8.33	-7.55				Peptide Only
+Primary Screen Hit	ChemBridge 77330782	N-[(2S*,4R*,6S*)-2-benzyl-6-(2-pyridin-2-ylpyrimidin-5-yl)tetrahydro-2H-pyran-4-yl]acetamide	[C@H]1(C[C@@H](C[C@H](Cc2ccccc2)O1)NC(C)=O)c(cn3)cnc3c4ccccn4	533.3 uM	651646	679102	665374	-4.79	-4.18				Peptide Only
+Primary Screen Hit	ChemBridge 11296327	3-methyl-N-({1-[(1-vinyl-1H-pyrazol-4-yl)methyl]piperidin-3-yl}methyl)isonicotinamide	c(CN1CCCC(CNC(=O)c(cc2)c(C)cn2)C1)(c3)cn(n3)C=C	533.3 uM	628227	643089	635658	-6.07	-5.71				Peptide Only
+Primary Screen Hit	ChemBridge 31147432	N-methyl-1-{[1'-(pyridin-3-ylmethyl)-1,4'-bipiperidin-3-yl]carbonyl}piperidin-4-amine	C(=O)(N1CCC(CC1)NC)C(CCCN2C(CC3)CCN3Cc(cccn4)c4)C2	533.3 uM	596395	629129	612762	-7.81	-6.30				Peptide Only
+Primary Screen Hit	ChemBridge 89066591	N-{[4-(1H-benzimidazol-2-yl)cyclohexyl]methyl}tetrahydrothiophene-3-carboxamide 1,1-dioxide	S(CCC1C(=O)NCC(CC2)CCC2c3[nH]c(c4n3)cccc4)(=O)(=O)C1	533.3 uM	642841	674956	658898.5	-5.27	-4.36				Peptide Only
+Primary Screen Hit	ChemBridge 20929492	2-amino-4-{3-[(diethylamino)methyl]-4-methoxyphenyl}-5,6,7,8-tetrahydro-1,6-naphthyridine-3-carbonitrile	c1(C#N)c(N)nc(c(C2)c1c(ccc(c3CN(CC)CC)OC)c3)CCN2	533.3 uM	676055	701977	689016	-4.70	-3.88				Peptide Only
+Primary Screen Hit	ChemBridge 27961612	4-[2-(6-methoxy-2-naphthyl)morpholin-4-yl]pyrimidin-2-amine	n1c(N)nccc1N2CCOC(C2)c3ccc4c(ccc(OC)c4)c3	533.3 uM	531402	581169	556285.5	-9.99	-7.52				Peptide Only
+Primary Screen Hit	ChemBridge 43113429	2-(2-phenyl-4-{[2-(1H-pyrazol-4-yl)ethyl]amino}-5,6-dihydro-1'H-spiro[cyclopenta[d]pyrimidine-7,4'-piperidin]-1'-yl)ethanol	c(CCC1(CC2)CCN2CCO)(c(NCCc(c3)c[nH]n3)nc(n4)c5ccccc5)c14	533.3 uM	628704	670254	649479	-6.43	-4.84				Peptide Only
+Primary Screen Hit	ChemBridge 12391417	N-[(1S*,3R*)-3-aminocyclopentyl]-4-{[1-(pyridin-2-ylmethyl)piperidin-4-yl]oxy}benzamide	C(=O)(c1ccc(cc1)OC(CC2)CCN2Cc3ccccn3)N[C@H]4CC[C@@H](N)C4	533.3 uM	527530	547860	537695	-10.13	-8.52				Peptide Only
+Primary Screen Hit	ChemBridge 70258815	N-cyclopentyl-N-({1-[2-(2-methylphenyl)ethyl]-4-piperidinyl}methyl)-6-oxo-1,6-dihydro-3-pyridazinecarboxamide	C(=O)(N(C1CCCC1)CC(CC2)CCN2CCc3ccccc3C)C(C=CC(N4)=O)=N4	533.3 uM	531083	581810	556446.5	-10.00	-7.50				Peptide Only
+Primary Screen Hit	ChemBridge 48634537	1-[4-(2-pyridin-3-yl-6,7,8,9-tetrahydro-5H-pyrimido[4,5-d]azepin-4-yl)morpholin-2-yl]methanamine	c1(N2CCOC(CN)C2)c(CC3)c(CCN3)nc(c(cccn4)c4)n1	533.3 uM	622403	641875	632139	-6.66	-5.69				Peptide Only
+Primary Screen Hit	ChemBridge 47342566	2-[4-(5,11-dihydro[1]benzoxepino[3,4-d]pyrimidin-4-yl)-1-isobutylpiperazin-2-yl]ethanol	c12c(COc(cccc3)c3C1)ncnc2N(CC4)CC(N4CC(C)C)CCO	533.3 uM	693837	730074	711955.5	-4.05	-3.03				Peptide Only
+Primary Screen Hit	ChemBridge 62155911	N-[(R*)-(cis-3-hydroxycyclobutyl)(piperidin-4-yl)methyl]quinoxaline-6-carboxamide hydrochloride	N(C(C(CC1)CCN1)[C@@H]2C[C@@H](C2)O)C(=O)c3ccc(c4c3)nccn4	533.3 uM	660216	683645	671930.5	-5.28	-4.43				Peptide Only
+Primary Screen Hit	ChemBridge 55086213	1-D-prolyl-1',4'-dihydro-3'H-spiro[piperidine-4,2'-quinoxalin]-3'-one dihydrochloride	C1(CC2)(CCN2C(=O)[C@H]3CCCN3)Nc4c(NC1=O)cccc4	533.3 uM	602244	618452	610348	-7.40	-6.40				Peptide Only
+Primary Screen Hit	ChemBridge 40097298	1-{[1-(2-chlorobenzyl)-1H-1,2,3-triazol-4-yl]carbonyl}azepane	c1(cn(nn1)Cc2ccccc2Cl)C(=O)N3CCCCCC3	533.3 uM	628654	641021	634837.5	-6.43	-5.72				Peptide Only
+Primary Screen Hit	ChemBridge 10858143	4-(4-morpholinyl)-7-[3-(2-pyridinyl)propanoyl]-5,6,7,8-tetrahydropyrido[3,4-d]pyrimidine	c1(CC2)c(ncnc1N(CC3)CCO3)CN2C(CCc4ccccn4)=O	533.3 uM	706793	722635	714714	-3.57	-3.26				Peptide Only
+Primary Screen Hit	ChemBridge 36183262	2-fluoro-N-{3-[4-(4-methyl-1H-pyrazol-3-yl)piperidin-1-yl]-3-oxopropyl}benzamide	c1(ccccc1F)C(NCCC(=O)N(CC2)CCC2c3c(C)c[nH]n3)=O	533.3 uM	668943	689756	679349.5	-4.96	-4.25				Peptide Only
+Primary Screen Hit	ChemBridge 24587632	1-(7-methylthieno[3,2-d]pyrimidin-4-yl)-N-(3-pyridin-4-ylpropyl)piperidin-4-amine	c12c(ncnc1N3CCC(CC3)NCCCc(cc4)ccn4)c(cs2)C	533.3 uM	599285	615572	607428.5	-7.51	-6.48				Peptide Only
+Primary Screen Hit	ChemBridge 12218305	N-[1-(2-hydroxyethyl)piperidin-4-yl]-4'-(methylthio)biphenyl-4-carboxamide	C(=O)(c(cc1)ccc1c2ccc(cc2)SC)NC(CC3)CCN3CCO	533.3 uM	728887	688991	708939	-2.43	-4.16				
+Primary Screen Hit	ChemBridge 28479447	1-(methoxyacetyl)-4-[(pyridin-4-ylthio)acetyl]-1,4-diazepane	N(CCCN1C(COC)=O)(CC1)C(=O)CSc(cc2)ccn2	533.3 uM	738887	750255	744571	-2.23	-3.07				
+Primary Screen Hit	ChemBridge 66646577	6-(cis-3-aminocyclobutyl)-2-cyclopropyl-N-methyl-N-[(3-phenylisoxazol-5-yl)methyl]pyrimidin-4-amine dihydrochloride	n1c(N(C)Cc(o2)cc(n2)c3ccccc3)cc(nc1C4CC4)[C@@H]5C[C@@H](C5)N	533.3 uM	567994	641579	604786.5	-5.74	-5.01				
+Primary Screen Hit	ChemBridge 88564135	2-{[2-(2-aminoethyl)morpholin-4-yl]methyl}-5,8-dimethylquinolin-4(1H)-one	c1(NC(CN(CC2)CC(O2)CCN)=CC3=O)c3c(ccc1C)C	533.3 uM	523344	550902	537123	-8.60	-6.53				
+Primary Screen Hit	ChemBridge 35689952	4-[(dimethylamino)methyl]-1-{[5-methyl-2-(2-naphthyl)-1,3-oxazol-4-yl]methyl}piperidin-4-ol	n1c(c2ccc(c3c2)cccc3)oc(C)c1CN(CC4)CCC4(O)CN(C)C	533.3 uM	282273	348026	315149.5	-20.40	-11.36				
+Primary Screen Hit	ChemBridge 46223959	5-{[4-(5-chloro-2-pyridinyl)-1-piperazinyl]methyl}-2-(2-pyridinyl)pyrimidine	N(CC1)(CCN1Cc(cn2)cnc2c3ccccn3)c4ccc(cn4)Cl	533.3 uM	374239	602989	488614	-15.90	-5.29				
+Primary Screen Hit	ChemBridge 39387361	N-(2-azepan-1-ylethyl)-N'-[3-(5-fluoro-1H-benzimidazol-2-yl)propyl]-N-methylurea	n(c1CCCNC(=O)N(C)CCN2CCCCCC2)c3c([nH]1)ccc(F)c3	533.3 uM	462377	533650	498013.5	-11.58	-6.94				
+Primary Screen Hit	ChemBridge 39273596	1-phenyl-4-[3-(4H-1,2,4-triazol-4-yl)benzyl]pyrrolidin-2-one	N1(c2ccccc2)CC(CC1=O)Cc(cccc3n(cnn4)c4)c3	533.3 uM	690142	721570	705856	-0.43	-2.46	Y			
+Primary Screen Hit	ChemBridge 13893864	N-[(2-methyl-1H-benzimidazol-6-yl)methyl]-4-(pyridin-3-ylmethoxy)piperidine-1-carboxamide	n(c(ccc(c1)CNC(=O)N2CCC(CC2)OCc(cccn3)c3)c1[nH]4)c4C	533.3 uM	612086	779300	695693	-4.25	-1.09		Y		
+Primary Screen Hit	ChemBridge 33803266	N-[2-methoxy-5-(5-methyl-1,3,4-oxadiazol-2-yl)phenyl]-3-oxo-3,4-dihydro-2H-1,4-benzoxazine-7-carboxamide	n1nc(oc1c(ccc(c2NC(=O)c(ccc3c4OCC(=O)N3)c4)OC)c2)C	533.3 uM	625806	741782	683794	-3.58	-1.98		Y		
+Primary Screen Hit	ChemBridge 31698248	N-{[1-(2-methoxyethyl)piperidin-4-yl]methyl}-N-methyl-N'-(1H-1,2,4-triazol-3-ylmethyl)urea	C(=O)(NCc1n[nH]cn1)N(C)CC(CC2)CCN2CCOC	533.3 uM	628981	751360	690170.5	-3.43	-1.76		Y		
+Primary Screen Hit	ChemBridge 99345448	N-[(5-isobutylisoxazol-3-yl)methyl]-N'-[3-(2-methylpyrimidin-4-yl)phenyl]urea	n(c1CNC(=O)Nc(cccc2c3ccnc(C)n3)c2)oc(c1)CC(C)C	533.3 uM	858093	805002	831547.5	-2.68	-11.28				
+Primary Screen Hit	ChemBridge 60240171	4-[7-(4-cyanopyridin-2-yl)-4-oxo-3,4,5,6,7,8-hexahydropyrido[3,4-d]pyrimidin-2-yl]benzamide	C(CC1)(C(=O)NC(=N2)c(cc3)ccc3C(N)=O)=C2CN1c4cc(ccn4)C#N	533.3 uM	802132	836956	819544	-2.97	-3.04				
+Primary Screen Hit	ChemBridge 84266432	4-{3-[3-(1H-benzimidazol-2-ylmethyl)-1-piperidinyl]-3-oxopropyl}-1,3-thiazol-2-amine	n1c2c([nH]c1CC(CCCN3C(CCc4csc(N)n4)=O)C3)cccc2	533.3 uM	634557	539830	587193.5	-5.72	-10.08				
+Primary Screen Hit	ChemBridge 69919786	5-[3-(4-methoxyphenyl)-1,2,4-oxadiazol-5-yl]-N-methyl-N-[(4-methyl-1H-imidazol-2-yl)methyl]-2-pyridinamine	n1c(c2ccc(cc2)OC)noc1c(ccc(n3)N(C)Cc4[nH]cc(C)n4)c3	533.3 uM	504890	532821	518855.5	-12.81	-10.38				
+Primary Screen Hit	ChemBridge 46144267	1-{5-[3-(2-methylphenyl)-1,2,4-oxadiazol-5-yl]pyridin-2-yl}pyrrolidin-3-amine	n1c(c(cc2)cnc2N3CCC(N)C3)onc1c4ccccc4C	533.3 uM	648249	664866	656557.5	-5.72	-5.00				
+Primary Screen Hit	ChemBridge 11226917	7-(acetylamino)-1-(4-fluorobenzyl)-1H-benzimidazole-5-carboxylic acid	n1(Cc(cc2)ccc2F)cnc(cc(C(O)=O)cc3NC(C)=O)c13	533.3 uM	734573	763680	749126.5	-2.56	-2.02				
+Primary Screen Hit	ChemBridge 83888947	N-[(2R*,3R*)-2-methoxy-2,3-dihydrospiro[indene-1,4'-piperidin]-3-yl]isonicotinamide	[C@@H](c(cccc1)c1C2(CC3)CCN3)([C@@H]2OC)NC(c(cc4)ccn4)=O	533.3 uM	657488	702515	680001.5	-5.38	-3.86				
+Primary Screen Hit	ChemBridge 94300584	2-[(4-fluorophenoxy)methyl]-N-(4-pyridinylmethyl)-1,3-oxazole-4-carboxamide	c1(coc(COc(cc2)ccc2F)n1)C(=O)NCc(cc3)ccn3	533.3 uM	727621	754168	740894.5	-2.81	-2.31				
+Primary Screen Hit	ChemBridge 48691289	(2E)-3-(4-pyridinyl)-N-{[7-(1,3-thiazol-2-yl)-2,3-dihydro-1-benzofuran-2-yl]methyl}acrylamide	c1(cccc(CC(CNC(=O)\C=C\c(cc2)ccn2)O3)c13)c4sccn4	533.3 uM	683407	704886	694146.5	-4.43	-3.79				
+DMSO Neg Control					939984	1046165	993074.5	1.90	2.20				
+DMSO Neg Control					861830	898122	879976	0.30	-0.44				
+DMSO Neg Control					866327	929682	898004.5	0.39	0.12				
+DMSO Neg Control					833783	921812	877797.5	-0.28	-0.02				
+DMSO Neg Control					859563	922866	891214.5	0.25	0.00				
+DMSO Neg Control					807288	847775	827531.5	-0.82	-1.34				
+DMSO Neg Control					836506	915651	876078.5	-0.22	-0.13				
+DMSO Neg Control					773945	900113	837029	-1.51	-0.40				
+DMSO Neg Control					707932	924920	816426	0.44	2.37				
+DMSO Neg Control					673913	812372	743142.5	-1.23	-0.30				
+DMSO Neg Control					669604	794734	732169	-1.44	-0.72				
+DMSO Neg Control					701690	813259	757474.5	0.13	-0.28				
+DMSO Neg Control					704465	796072	750268.5	0.27	-0.69				
+DMSO Neg Control					727619	822939	775279	1.40	-0.05				
+DMSO Neg Control					707568	807605	757586.5	0.42	-0.42				
+DMSO Neg Control					1060925	1081916	1071420.5	2.43	2.11				
+DMSO Neg Control					958901	1034810	996855.5	-0.14	-0.17				
+DMSO Neg Control					957324	1050955	1004139.5	-0.18	0.61				
+DMSO Neg Control					944320	1041829	993074.5	-0.51	0.17				
+DMSO Neg Control					960134	1030737	995435.5	-0.11	-0.37				
+DMSO Neg Control					939314	1015772	977543	-0.63	-1.09				
+DMSO Neg Control					947892	1023658	985775	-0.42	-0.71				
+DMSO Neg Control					947025	1027006	987015.5	-0.44	-0.55				
+DMSO Neg Control					982916	1080352	1031634	2.31	2.29				
+DMSO Neg Control					894855	984373	939614	-0.26	0.19				
+DMSO Neg Control					919171	978314	948742.5	0.45	0.05				
+DMSO Neg Control					895564	971040	933302	-0.24	-0.11				
+DMSO Neg Control					888866	964029	926447.5	-0.43	-0.26				
+DMSO Neg Control					882183	952169	917176	-0.63	-0.52				
+DMSO Neg Control					886460	943750	915105	-0.50	-0.70				
+DMSO Neg Control					879829	932808	906318.5	-0.70	-0.94				
+DMSO Neg Control					780397	833065	806731	2.25	2.34				
+DMSO Neg Control					716645	773826	745235.5	-1.23	-0.17				
+DMSO Neg Control					733579	773843	753711	-0.31	-0.17				
+DMSO Neg Control					731686	783559	757622.5	-0.41	0.24				
+DMSO Neg Control					740212	763632	751922	0.06	-0.60				
+DMSO Neg Control					733107	769072	751089.5	-0.33	-0.37				
+DMSO Neg Control					741179	768805	754992	0.11	-0.38				
+DMSO Neg Control					736686	757149	746917.5	-0.14	-0.88				
+DMSO Neg Control					869270	909702	889486	2.38	2.38				
+DMSO Neg Control					788675	821020	804847.5	-0.58	-0.29				
+DMSO Neg Control					810812	833901	822356.5	0.24	0.09				
+DMSO Neg Control					800185	828300	814242.5	-0.15	-0.07				
+DMSO Neg Control					796445	808520	802482.5	-0.29	-0.67				
+DMSO Neg Control					792973	820341	806657	-0.42	-0.31				
+DMSO Neg Control					787510	818512	803011	-0.62	-0.37				
+DMSO Neg Control					789227	805920	797573.5	-0.55	-0.75				
+CPI-455 Pos Control					790483	867577	829030	-1.17	-0.98				
+CPI-455 Pos Control					726334	760112	743223	-2.49	-2.90				
+CPI-455 Pos Control					736244	816277	776260.5	-2.28	-1.90				
+CPI-455 Pos Control					783604	814169	798886.5	-1.31	-1.93				
+CPI-455 Pos Control					766504	825486	795995	-1.66	-1.73				
+CPI-455 Pos Control					781462	812418	796940	-1.35	-1.97				
+CPI-455 Pos Control					779855	751523	765689	-1.39	-3.05				
+CPI-455 Pos Control					791716	811497	801606.5	-1.14	-1.98				
+CPI-455 Pos Control					496691	805187	650939	-9.90	-0.47				
+CPI-455 Pos Control					536208	729946	633077	-7.97	-2.27				
+CPI-455 Pos Control					569609	740509	655059	-6.33	-2.01				
+CPI-455 Pos Control					582840	704367	643603.5	-5.69	-2.87				
+CPI-455 Pos Control					596392	758100	677246	-5.02	-1.60				
+CPI-455 Pos Control					599025	697061	648043	-4.89	-3.05				
+CPI-455 Pos Control					618962	741312	680137	-3.92	-1.99				
+CPI-455 Pos Control					610624	717475	664049.5	-4.33	-2.56				
+CPI-455 Pos Control					855232	950677	902954.5	-2.75	-4.24				
+CPI-455 Pos Control					799247	865386	832316.5	-4.16	-8.36				
+CPI-455 Pos Control					823319	878726	851022.5	-3.56	-7.72				
+CPI-455 Pos Control					817515	889956	853735.5	-3.70	-7.17				
+CPI-455 Pos Control					836956	891285	864120.5	-3.21	-7.11				
+CPI-455 Pos Control					821529	901235	861382	-3.60	-6.63				
+CPI-455 Pos Control					822963	914286	868624.5	-3.57	-6.00				
+CPI-455 Pos Control					823974	940425	882199.5	-3.54	-4.73				
+CPI-455 Pos Control					802099	894433	848266	-2.97	-1.78				
+CPI-455 Pos Control					724514	826086	775300	-5.23	-3.28				
+CPI-455 Pos Control					758478	823869	791173.5	-4.24	-3.33				
+CPI-455 Pos Control					734061	818151	776106	-4.95	-3.45				
+CPI-455 Pos Control					735212	825520	780366	-4.92	-3.29				
+CPI-455 Pos Control					731771	820200	775985.5	-5.02	-3.41				
+CPI-455 Pos Control					745238	814218	779728	-4.63	-3.54				
+CPI-455 Pos Control					737786	808798	773292	-4.85	-3.66				
+CPI-455 Pos Control					628389	698689	663539	-6.06	-3.35				
+CPI-455 Pos Control					599447	643491	621469	-7.64	-5.69				
+CPI-455 Pos Control					592956	651916	622436	-7.99	-5.33				
+CPI-455 Pos Control					608168	649644	628906	-7.16	-5.43				
+CPI-455 Pos Control					615667	658780	637223.5	-6.75	-5.04				
+CPI-455 Pos Control					608542	652127	630334.5	-7.14	-5.33				
+CPI-455 Pos Control					588361	659445	623903	-8.25	-5.02				
+CPI-455 Pos Control					611353	645662	628507.5	-6.99	-5.60				
+CPI-455 Pos Control					729468	754798	742133	-2.74	-2.29				
+CPI-455 Pos Control					670279	696006	683142.5	-4.91	-4.06				
+CPI-455 Pos Control					678136	706468	692302	-4.62	-3.74				
+CPI-455 Pos Control					673702	705207	689454.5	-4.78	-3.78				
+CPI-455 Pos Control					678896	710968	694932	-4.59	-3.61				
+CPI-455 Pos Control					667699	700596	684147.5	-5.00	-3.92				
+CPI-455 Pos Control					673669	696512	685090.5	-4.79	-4.04				
+CPI-455 Pos Control					670103	716455	693279	-4.92	-3.44				
