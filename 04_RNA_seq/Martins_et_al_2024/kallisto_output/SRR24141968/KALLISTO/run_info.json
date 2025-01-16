@@ -1,0 +1,13 @@
+{
+	"n_targets": 41970,
+	"n_bootstraps": 0,
+	"n_processed": 48415580,
+	"n_pseudoaligned": 38962500,
+	"n_unique": 21920533,
+	"p_pseudoaligned": 80.5,
+	"p_unique": 45.3,
+	"kallisto_version": "0.46.0",
+	"index_version": 10,
+	"start_time": "Tue May 28 23:04:34 2024",
+	"call": "kallisto quant -i /broad/blainey_lab/Mo/genomes/kallisto_index_hg19/kallisto_index_hg19.idx -o /broad/blainey_lab_storage/MN/cancer_te_manuscript/martins/kallisto_output/SRR24141968/KALLISTO /broad/blainey_lab_storage/MN/cancer_te_manuscript/martins/fastq/SRR24141968_1.fastq.gz /broad/blainey_lab_storage/MN/cancer_te_manuscript/martins/fastq/SRR24141968_2.fastq.gz"
+}
