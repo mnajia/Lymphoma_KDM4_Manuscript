@@ -1,0 +1,863 @@
+INFO  @ Mon, 26 Feb 2024 15:24:30: 
+# ARGUMENTS LIST:
+# name = JIB04_150nM_v_DMSO
+# treatment files = ['/broad/blainey_lab_storage/MN/cancer_te_manuscript/20170912_DJ_OCI-Ly1_RNA_Seq/STAR_output/OCI-Ly1_JIB04_150nM_rep1_Aligned.out.bam', '/broad/blainey_lab_storage/MN/cancer_te_manuscript/20170912_DJ_OCI-Ly1_RNA_Seq/STAR_output/OCI-Ly1_JIB04_150nM_rep2_Aligned.out.bam', '/broad/blainey_lab_storage/MN/cancer_te_manuscript/20170912_DJ_OCI-Ly1_RNA_Seq/STAR_output/OCI-Ly1_JIB04_150nM_rep3_Aligned.out.bam']
+# control files = ['/broad/blainey_lab_storage/MN/cancer_te_manuscript/20170912_DJ_OCI-Ly1_RNA_Seq/STAR_output/OCI-Ly1_DMSO_rep1_Aligned.out.bam', '/broad/blainey_lab_storage/MN/cancer_te_manuscript/20170912_DJ_OCI-Ly1_RNA_Seq/STAR_output/OCI-Ly1_DMSO_rep2_Aligned.out.bam', '/broad/blainey_lab_storage/MN/cancer_te_manuscript/20170912_DJ_OCI-Ly1_RNA_Seq/STAR_output/OCI-Ly1_DMSO_rep3_Aligned.out.bam']
+# GTF file = /broad/blainey_lab/Mo/exps/20220507_CD34_CB_K9_KO_D27_NK_SS2_RNAseq_miniseq/STAR_index/hg38.ncbiRefSeq.gtf 
+# TE file = /broad/blainey_lab/Mo/exps/20220507_CD34_CB_K9_KO_D27_NK_SS2_RNAseq_miniseq/STAR_index/hg38_rmsk_TE.gtf 
+# multi-mapper mode = multi 
+# stranded = no
+# differential analysis using DESeq2
+# normalization = DESeq2_default
+# FDR cutoff = 5.00e-02
+# fold-change cutoff =  1.00
+# read count cutoff = 1
+# number of iteration = 100
+# Alignments grouped by read ID = True
+
+ 
+INFO  @ Mon, 26 Feb 2024 15:24:30: Processing GTF files ...
+ 
+INFO  @ Mon, 26 Feb 2024 15:24:30: Building gene index ....... 
+ 
+100000 GTF lines processed.
+200000 GTF lines processed.
+300000 GTF lines processed.
+400000 GTF lines processed.
+500000 GTF lines processed.
+600000 GTF lines processed.
+700000 GTF lines processed.
+800000 GTF lines processed.
+900000 GTF lines processed.
+1000000 GTF lines processed.
+1100000 GTF lines processed.
+1200000 GTF lines processed.
+1300000 GTF lines processed.
+1400000 GTF lines processed.
+1500000 GTF lines processed.
+1600000 GTF lines processed.
+1700000 GTF lines processed.
+1800000 GTF lines processed.
+1900000 GTF lines processed.
+2000000 GTF lines processed.
+2100000 GTF lines processed.
+2200000 GTF lines processed.
+INFO  @ Mon, 26 Feb 2024 15:47:36: Done building gene index ...... 
+ 
+INFO  @ Mon, 26 Feb 2024 15:51:04: Building TE index ....... 
+ 
+INFO  @ Mon, 26 Feb 2024 15:58:00: Done building TE index ...... 
+ 
+INFO  @ Mon, 26 Feb 2024 15:58:00: 
+Reading sample files ... 
+ 
+[E::idx_find_and_load] Could not retrieve index file for '/broad/blainey_lab_storage/MN/cancer_te_manuscript/20170912_DJ_OCI-Ly1_RNA_Seq/STAR_output/OCI-Ly1_JIB04_150nM_rep1_Aligned.out.bam'
+[E::idx_find_and_load] Could not retrieve index file for '/broad/blainey_lab_storage/MN/cancer_te_manuscript/20170912_DJ_OCI-Ly1_RNA_Seq/STAR_output/OCI-Ly1_JIB04_150nM_rep2_Aligned.out.bam'
+[E::idx_find_and_load] Could not retrieve index file for '/broad/blainey_lab_storage/MN/cancer_te_manuscript/20170912_DJ_OCI-Ly1_RNA_Seq/STAR_output/OCI-Ly1_JIB04_150nM_rep3_Aligned.out.bam'
+[E::idx_find_and_load] Could not retrieve index file for '/broad/blainey_lab_storage/MN/cancer_te_manuscript/20170912_DJ_OCI-Ly1_RNA_Seq/STAR_output/OCI-Ly1_DMSO_rep1_Aligned.out.bam'
+[E::idx_find_and_load] Could not retrieve index file for '/broad/blainey_lab_storage/MN/cancer_te_manuscript/20170912_DJ_OCI-Ly1_RNA_Seq/STAR_output/OCI-Ly1_DMSO_rep2_Aligned.out.bam'
+[E::idx_find_and_load] Could not retrieve index file for '/broad/blainey_lab_storage/MN/cancer_te_manuscript/20170912_DJ_OCI-Ly1_RNA_Seq/STAR_output/OCI-Ly1_DMSO_rep3_Aligned.out.bam'
+uniq te counts = 4778276 
+.......start iterative optimization .......... 
+multi-reads = 614476 total means = 6650
+after normalization total means0 = 1.0000000000000042
+SQUAREM iteraton [1]
+1/3
+num of multi reads = 614476
+total multi counts = 524089
+total multi counts = 524089
+total means = 8252
+after normalization total means = 1.0000000000000013
+2/3
+num of multi reads = 614476
+total multi counts = 524090
+total multi counts = 524090
+total means = 8335
+after normalization total means = 0.9999999999999559
+alpha = 1.0, SQUAREM iteraton [2]
+1/3
+num of multi reads = 614476
+total multi counts = 524090
+total multi counts = 524090
+total means = 8322
+after normalization total means = 1.0000000000000038
+2/3
+num of multi reads = 614476
+total multi counts = 524090
+total multi counts = 524090
+total means = 8300
+after normalization total means = 0.9999999999999314
+alpha = 2.3005232855838287.
+ Performing a stabilization step.
+num of multi reads = 614476
+total multi counts = 524090
+total multi counts = 524090
+total means = 8227
+after normalization total means = 0.9999999999999799
+alpha = 2.3005232855838287, SQUAREM iteraton [3]
+1/3
+num of multi reads = 614476
+total multi counts = 524089
+total multi counts = 524089
+total means = 8222
+after normalization total means = 0.9999999999999309
+2/3
+num of multi reads = 614476
+total multi counts = 524089
+total multi counts = 524089
+total means = 8216
+after normalization total means = 1.0000000000000102
+alpha = 2.2175954773774844.
+ Performing a stabilization step.
+num of multi reads = 614476
+total multi counts = 524089
+total multi counts = 524089
+total means = 8203
+after normalization total means = 0.9999999999999423
+alpha = 2.2175954773774844, SQUAREM iteraton [4]
+1/3
+num of multi reads = 614476
+total multi counts = 524089
+total multi counts = 524089
+total means = 8201
+after normalization total means = 0.9999999999999476
+2/3
+num of multi reads = 614476
+total multi counts = 524089
+total multi counts = 524089
+total means = 8200
+after normalization total means = 0.9999999999999478
+alpha = 2.450575986863043.
+ Performing a stabilization step.
+num of multi reads = 614476
+total multi counts = 524089
+total multi counts = 524089
+total means = 8196
+after normalization total means = 0.9999999999999784
+alpha = 2.450575986863043, SQUAREM iteraton [5]
+1/3
+num of multi reads = 614476
+total multi counts = 524090
+total multi counts = 524090
+total means = 8196
+after normalization total means = 1.000000000000025
+2/3
+num of multi reads = 614476
+total multi counts = 524089
+total multi counts = 524089
+total means = 8196
+after normalization total means = 0.9999999999999664
+alpha = 3.104592362230846.
+ Performing a stabilization step.
+num of multi reads = 614476
+total multi counts = 524090
+total multi counts = 524090
+total means = 8195
+after normalization total means = 0.9999999999999823
+alpha = 3.104592362230846, SQUAREM iteraton [6]
+1/3
+num of multi reads = 614476
+total multi counts = 524089
+total multi counts = 524089
+total means = 8195
+after normalization total means = 0.9999999999999655
+2/3
+num of multi reads = 614476
+total multi counts = 524089
+total multi counts = 524089
+total means = 8195
+after normalization total means = 1.0000000000000044
+rNome = OPT_TOL 
+converge at iteration 6
+num of multi reads = 614476
+total multi counts = 524089
+TE counts total 5302365.9999998445 
+Gene counts total 25897280.72210226 
+
+In library /broad/blainey_lab_storage/MN/cancer_te_manuscript/20170912_DJ_OCI-Ly1_RNA_Seq/STAR_output/OCI-Ly1_JIB04_150nM_rep1_Aligned.out.bam: 
+Total annotated reads = 31199646 
+Total non-uniquely mapped reads = 5906708 
+Total unannotated reads = 3449403 
+
+uniq te counts = 5096102 
+.......start iterative optimization .......... 
+multi-reads = 630164 total means = 6898
+after normalization total means0 = 0.9999999999999781
+SQUAREM iteraton [1]
+1/3
+num of multi reads = 630164
+total multi counts = 544425
+total multi counts = 544425
+total means = 8425
+after normalization total means = 1.0000000000000193
+2/3
+num of multi reads = 630164
+total multi counts = 544426
+total multi counts = 544426
+total means = 8510
+after normalization total means = 0.9999999999999731
+alpha = 1.0, SQUAREM iteraton [2]
+1/3
+num of multi reads = 630164
+total multi counts = 544425
+total multi counts = 544425
+total means = 8505
+after normalization total means = 1.0000000000000238
+2/3
+num of multi reads = 630164
+total multi counts = 544425
+total multi counts = 544425
+total means = 8486
+after normalization total means = 0.9999999999999615
+alpha = 2.219723994929314.
+ Performing a stabilization step.
+num of multi reads = 630164
+total multi counts = 544426
+total multi counts = 544426
+total means = 8422
+after normalization total means = 0.9999999999999728
+alpha = 2.219723994929314, SQUAREM iteraton [3]
+1/3
+num of multi reads = 630164
+total multi counts = 544426
+total multi counts = 544426
+total means = 8417
+after normalization total means = 0.9999999999999396
+2/3
+num of multi reads = 630164
+total multi counts = 544426
+total multi counts = 544426
+total means = 8412
+after normalization total means = 0.9999999999999429
+alpha = 2.197883387774572.
+ Performing a stabilization step.
+num of multi reads = 630164
+total multi counts = 544425
+total multi counts = 544425
+total means = 8401
+after normalization total means = 0.9999999999999964
+alpha = 2.197883387774572, SQUAREM iteraton [4]
+1/3
+num of multi reads = 630164
+total multi counts = 544425
+total multi counts = 544425
+total means = 8400
+after normalization total means = 0.999999999999984
+2/3
+num of multi reads = 630164
+total multi counts = 544426
+total multi counts = 544426
+total means = 8399
+after normalization total means = 0.9999999999999911
+alpha = 2.5840065038763145.
+ Performing a stabilization step.
+num of multi reads = 630164
+total multi counts = 544426
+total multi counts = 544426
+total means = 8396
+after normalization total means = 1.0000000000000506
+alpha = 2.5840065038763145, SQUAREM iteraton [5]
+1/3
+num of multi reads = 630164
+total multi counts = 544426
+total multi counts = 544426
+total means = 8395
+after normalization total means = 0.999999999999981
+2/3
+num of multi reads = 630164
+total multi counts = 544425
+total multi counts = 544425
+total means = 8395
+after normalization total means = 1.0000000000000286
+alpha = 3.4752055500187384.
+ Performing a stabilization step.
+num of multi reads = 630164
+total multi counts = 544425
+total multi counts = 544425
+total means = 8394
+after normalization total means = 1.000000000000011
+alpha = 3.4752055500187384, SQUAREM iteraton [6]
+1/3
+num of multi reads = 630164
+total multi counts = 544425
+total multi counts = 544425
+total means = 8394
+after normalization total means = 0.9999999999999925
+2/3
+num of multi reads = 630164
+total multi counts = 544425
+total multi counts = 544425
+total means = 8394
+after normalization total means = 0.9999999999999316
+alpha = 4.0.
+ Performing a stabilization step.
+num of multi reads = 630164
+total multi counts = 544426
+total multi counts = 544426
+total means = 8394
+after normalization total means = 1.0000000000000424
+alpha = 4.0, SQUAREM iteraton [7]
+1/3
+num of multi reads = 630164
+total multi counts = 544425
+total multi counts = 544425
+total means = 8394
+after normalization total means = 0.9999999999999304
+2/3
+num of multi reads = 630164
+total multi counts = 544426
+total multi counts = 544426
+total means = 8394
+after normalization total means = 0.9999999999999952
+rNome = OPT_TOL 
+converge at iteration 7
+num of multi reads = 630164
+total multi counts = 544425
+TE counts total 5640528.999999625 
+Gene counts total 25217027.876180094 
+
+In library /broad/blainey_lab_storage/MN/cancer_te_manuscript/20170912_DJ_OCI-Ly1_RNA_Seq/STAR_output/OCI-Ly1_JIB04_150nM_rep2_Aligned.out.bam: 
+Total annotated reads = 30857556 
+Total non-uniquely mapped reads = 5229487 
+Total unannotated reads = 3797304 
+
+uniq te counts = 3800774 
+.......start iterative optimization .......... 
+multi-reads = 459838 total means = 4656
+after normalization total means0 = 0.9999999999998688
+SQUAREM iteraton [1]
+1/3
+num of multi reads = 459838
+total multi counts = 389629
+total multi counts = 389629
+total means = 5753
+after normalization total means = 1.00000000000003
+2/3
+num of multi reads = 459838
+total multi counts = 389629
+total multi counts = 389629
+total means = 5816
+after normalization total means = 0.9999999999999606
+alpha = 1.0, SQUAREM iteraton [2]
+1/3
+num of multi reads = 459838
+total multi counts = 389629
+total multi counts = 389629
+total means = 5816
+after normalization total means = 0.9999999999999954
+2/3
+num of multi reads = 459838
+total multi counts = 389629
+total multi counts = 389629
+total means = 5806
+after normalization total means = 1.000000000000007
+alpha = 2.4900800622573693.
+ Performing a stabilization step.
+num of multi reads = 459838
+total multi counts = 389628
+total multi counts = 389628
+total means = 5762
+after normalization total means = 1.0000000000000357
+alpha = 2.4900800622573693, SQUAREM iteraton [3]
+1/3
+num of multi reads = 459838
+total multi counts = 389628
+total multi counts = 389628
+total means = 5758
+after normalization total means = 0.9999999999999879
+2/3
+num of multi reads = 459838
+total multi counts = 389628
+total multi counts = 389628
+total means = 5754
+after normalization total means = 0.9999999999999687
+alpha = 2.552624991965743.
+ Performing a stabilization step.
+num of multi reads = 459838
+total multi counts = 389628
+total multi counts = 389628
+total means = 5741
+after normalization total means = 1.0000000000000402
+alpha = 2.552624991965743, SQUAREM iteraton [4]
+1/3
+num of multi reads = 459838
+total multi counts = 389629
+total multi counts = 389629
+total means = 5740
+after normalization total means = 1.000000000000051
+2/3
+num of multi reads = 459838
+total multi counts = 389629
+total multi counts = 389629
+total means = 5739
+after normalization total means = 1.0000000000000118
+alpha = 2.9850238153289235.
+ Performing a stabilization step.
+num of multi reads = 459838
+total multi counts = 389629
+total multi counts = 389629
+total means = 5733
+after normalization total means = 0.9999999999999871
+alpha = 2.9850238153289235, SQUAREM iteraton [5]
+1/3
+num of multi reads = 459838
+total multi counts = 389629
+total multi counts = 389629
+total means = 5733
+after normalization total means = 0.9999999999999495
+2/3
+num of multi reads = 459838
+total multi counts = 389629
+total multi counts = 389629
+total means = 5732
+after normalization total means = 1.0000000000000149
+alpha = 3.641039631601243.
+ Performing a stabilization step.
+num of multi reads = 459838
+total multi counts = 389628
+total multi counts = 389628
+total means = 5729
+after normalization total means = 1.0000000000000455
+alpha = 3.641039631601243, SQUAREM iteraton [6]
+1/3
+num of multi reads = 459838
+total multi counts = 389628
+total multi counts = 389628
+total means = 5729
+after normalization total means = 1.0000000000000104
+2/3
+num of multi reads = 459838
+total multi counts = 389629
+total multi counts = 389629
+total means = 5729
+after normalization total means = 0.9999999999999917
+alpha = 4.0.
+ Performing a stabilization step.
+num of multi reads = 459838
+total multi counts = 389628
+total multi counts = 389628
+total means = 5727
+after normalization total means = 0.9999999999999977
+alpha = 4.0, SQUAREM iteraton [7]
+1/3
+num of multi reads = 459838
+total multi counts = 389629
+total multi counts = 389629
+total means = 5727
+after normalization total means = 1.000000000000005
+2/3
+num of multi reads = 459838
+total multi counts = 389629
+total multi counts = 389629
+total means = 5727
+after normalization total means = 1.0000000000000544
+rNome = OPT_TOL 
+converge at iteration 7
+num of multi reads = 459838
+total multi counts = 389629
+TE counts total 4190403.0000003036 
+Gene counts total 19669671.505597226 
+
+In library /broad/blainey_lab_storage/MN/cancer_te_manuscript/20170912_DJ_OCI-Ly1_RNA_Seq/STAR_output/OCI-Ly1_JIB04_150nM_rep3_Aligned.out.bam: 
+Total annotated reads = 23860074 
+Total non-uniquely mapped reads = 3679697 
+Total unannotated reads = 2813801 
+
+uniq te counts = 5619831 
+.......start iterative optimization .......... 
+multi-reads = 666642 total means = 7524
+after normalization total means0 = 1.0000000000000355
+SQUAREM iteraton [1]
+1/3
+num of multi reads = 666642
+total multi counts = 566369
+total multi counts = 566369
+total means = 9376
+after normalization total means = 0.9999999999999286
+2/3
+num of multi reads = 666642
+total multi counts = 566370
+total multi counts = 566370
+total means = 9477
+after normalization total means = 1.0000000000000129
+alpha = 1.0, SQUAREM iteraton [2]
+1/3
+num of multi reads = 666642
+total multi counts = 566369
+total multi counts = 566369
+total means = 9473
+after normalization total means = 0.9999999999999831
+2/3
+num of multi reads = 666642
+total multi counts = 566369
+total multi counts = 566369
+total means = 9455
+after normalization total means = 1.0000000000000004
+alpha = 2.335261865400293.
+ Performing a stabilization step.
+num of multi reads = 666642
+total multi counts = 566369
+total multi counts = 566369
+total means = 9390
+after normalization total means = 0.999999999999989
+alpha = 2.335261865400293, SQUAREM iteraton [3]
+1/3
+num of multi reads = 666642
+total multi counts = 566370
+total multi counts = 566370
+total means = 9385
+after normalization total means = 0.9999999999999764
+2/3
+num of multi reads = 666642
+total multi counts = 566369
+total multi counts = 566369
+total means = 9380
+after normalization total means = 0.9999999999999815
+alpha = 2.300701505310589.
+ Performing a stabilization step.
+num of multi reads = 666642
+total multi counts = 566370
+total multi counts = 566370
+total means = 9366
+after normalization total means = 1.0000000000000115
+alpha = 2.300701505310589, SQUAREM iteraton [4]
+1/3
+num of multi reads = 666642
+total multi counts = 566370
+total multi counts = 566370
+total means = 9365
+after normalization total means = 1.0000000000000147
+2/3
+num of multi reads = 666642
+total multi counts = 566369
+total multi counts = 566369
+total means = 9364
+after normalization total means = 0.9999999999999793
+alpha = 2.576739087800278.
+ Performing a stabilization step.
+num of multi reads = 666642
+total multi counts = 566369
+total multi counts = 566369
+total means = 9360
+after normalization total means = 0.9999999999999979
+alpha = 2.576739087800278, SQUAREM iteraton [5]
+1/3
+num of multi reads = 666642
+total multi counts = 566370
+total multi counts = 566370
+total means = 9359
+after normalization total means = 1.0000000000000318
+2/3
+num of multi reads = 666642
+total multi counts = 566369
+total multi counts = 566369
+total means = 9359
+after normalization total means = 0.9999999999999669
+alpha = 3.20139346360709.
+ Performing a stabilization step.
+num of multi reads = 666642
+total multi counts = 566370
+total multi counts = 566370
+total means = 9358
+after normalization total means = 1.0000000000000107
+alpha = 3.20139346360709, SQUAREM iteraton [6]
+1/3
+num of multi reads = 666642
+total multi counts = 566369
+total multi counts = 566369
+total means = 9358
+after normalization total means = 1.0000000000000042
+2/3
+num of multi reads = 666642
+total multi counts = 566370
+total multi counts = 566370
+total means = 9358
+after normalization total means = 1.0000000000000113
+rNome = OPT_TOL 
+converge at iteration 6
+num of multi reads = 666642
+total multi counts = 566369
+TE counts total 6186201.999999692 
+Gene counts total 26325442.747067224 
+
+In library /broad/blainey_lab_storage/MN/cancer_te_manuscript/20170912_DJ_OCI-Ly1_RNA_Seq/STAR_output/OCI-Ly1_DMSO_rep1_Aligned.out.bam: 
+Total annotated reads = 32511644 
+Total non-uniquely mapped reads = 5277123 
+Total unannotated reads = 4047127 
+
+uniq te counts = 3098733 
+.......start iterative optimization .......... 
+multi-reads = 399840 total means = 4457
+after normalization total means0 = 1.0000000000000184
+SQUAREM iteraton [1]
+1/3
+num of multi reads = 399840
+total multi counts = 345468
+total multi counts = 345468
+total means = 5439
+after normalization total means = 1.0000000000000573
+2/3
+num of multi reads = 399840
+total multi counts = 345469
+total multi counts = 345469
+total means = 5489
+after normalization total means = 0.9999999999999906
+alpha = 1.0, SQUAREM iteraton [2]
+1/3
+num of multi reads = 399840
+total multi counts = 345468
+total multi counts = 345468
+total means = 5482
+after normalization total means = 0.9999999999999162
+2/3
+num of multi reads = 399840
+total multi counts = 345469
+total multi counts = 345469
+total means = 5467
+after normalization total means = 1.000000000000004
+alpha = 2.2763878123349324.
+ Performing a stabilization step.
+num of multi reads = 399840
+total multi counts = 345469
+total multi counts = 345469
+total means = 5420
+after normalization total means = 1.0000000000000537
+alpha = 2.2763878123349324, SQUAREM iteraton [3]
+1/3
+num of multi reads = 399840
+total multi counts = 345469
+total multi counts = 345469
+total means = 5416
+after normalization total means = 1.0000000000000602
+2/3
+num of multi reads = 399840
+total multi counts = 345468
+total multi counts = 345468
+total means = 5412
+after normalization total means = 1.0000000000000104
+alpha = 2.2846064148340246.
+ Performing a stabilization step.
+num of multi reads = 399840
+total multi counts = 345469
+total multi counts = 345469
+total means = 5402
+after normalization total means = 0.9999999999999649
+alpha = 2.2846064148340246, SQUAREM iteraton [4]
+1/3
+num of multi reads = 399840
+total multi counts = 345468
+total multi counts = 345468
+total means = 5401
+after normalization total means = 1.0000000000000242
+2/3
+num of multi reads = 399840
+total multi counts = 345469
+total multi counts = 345469
+total means = 5400
+after normalization total means = 1.0000000000000357
+alpha = 2.6086755789339904.
+ Performing a stabilization step.
+num of multi reads = 399840
+total multi counts = 345469
+total multi counts = 345469
+total means = 5397
+after normalization total means = 0.9999999999999983
+alpha = 2.6086755789339904, SQUAREM iteraton [5]
+1/3
+num of multi reads = 399840
+total multi counts = 345469
+total multi counts = 345469
+total means = 5397
+after normalization total means = 0.999999999999988
+2/3
+num of multi reads = 399840
+total multi counts = 345468
+total multi counts = 345468
+total means = 5397
+after normalization total means = 1.0000000000000182
+alpha = 3.0207901922527887.
+ Performing a stabilization step.
+num of multi reads = 399840
+total multi counts = 345469
+total multi counts = 345469
+total means = 5396
+after normalization total means = 1.0000000000000473
+alpha = 3.0207901922527887, SQUAREM iteraton [6]
+1/3
+num of multi reads = 399840
+total multi counts = 345469
+total multi counts = 345469
+total means = 5395
+after normalization total means = 1.0000000000000293
+2/3
+num of multi reads = 399840
+total multi counts = 345468
+total multi counts = 345468
+total means = 5395
+after normalization total means = 1.0
+rNome = OPT_TOL 
+converge at iteration 6
+num of multi reads = 399840
+total multi counts = 345469
+TE counts total 3444202.000000131 
+Gene counts total 15973962.044284372 
+
+In library /broad/blainey_lab_storage/MN/cancer_te_manuscript/20170912_DJ_OCI-Ly1_RNA_Seq/STAR_output/OCI-Ly1_DMSO_rep2_Aligned.out.bam: 
+Total annotated reads = 19418164 
+Total non-uniquely mapped reads = 3226371 
+Total unannotated reads = 2227199 
+
+uniq te counts = 5642116 
+.......start iterative optimization .......... 
+multi-reads = 654218 total means = 7761
+after normalization total means0 = 0.9999999999999893
+SQUAREM iteraton [1]
+1/3
+num of multi reads = 654218
+total multi counts = 561521
+total multi counts = 561521
+total means = 9543
+after normalization total means = 0.9999999999999756
+2/3
+num of multi reads = 654218
+total multi counts = 561521
+total multi counts = 561521
+total means = 9638
+after normalization total means = 0.9999999999999813
+alpha = 1.0, SQUAREM iteraton [2]
+1/3
+num of multi reads = 654218
+total multi counts = 561521
+total multi counts = 561521
+total means = 9641
+after normalization total means = 0.9999999999999503
+2/3
+num of multi reads = 654218
+total multi counts = 561520
+total multi counts = 561520
+total means = 9629
+after normalization total means = 1.0000000000000242
+alpha = 2.369173003809398.
+ Performing a stabilization step.
+num of multi reads = 654218
+total multi counts = 561520
+total multi counts = 561520
+total means = 9572
+after normalization total means = 0.9999999999999855
+alpha = 2.369173003809398, SQUAREM iteraton [3]
+1/3
+num of multi reads = 654218
+total multi counts = 561520
+total multi counts = 561520
+total means = 9567
+after normalization total means = 0.9999999999999927
+2/3
+num of multi reads = 654218
+total multi counts = 561520
+total multi counts = 561520
+total means = 9562
+after normalization total means = 0.9999999999999988
+alpha = 2.4281197859846007.
+ Performing a stabilization step.
+num of multi reads = 654218
+total multi counts = 561520
+total multi counts = 561520
+total means = 9545
+after normalization total means = 1.000000000000049
+alpha = 2.4281197859846007, SQUAREM iteraton [4]
+1/3
+num of multi reads = 654218
+total multi counts = 561521
+total multi counts = 561521
+total means = 9544
+after normalization total means = 1.000000000000002
+2/3
+num of multi reads = 654218
+total multi counts = 561521
+total multi counts = 561521
+total means = 9542
+after normalization total means = 0.9999999999999653
+alpha = 2.890316866276391.
+ Performing a stabilization step.
+num of multi reads = 654218
+total multi counts = 561520
+total multi counts = 561520
+total means = 9535
+after normalization total means = 0.9999999999999428
+alpha = 2.890316866276391, SQUAREM iteraton [5]
+1/3
+num of multi reads = 654218
+total multi counts = 561521
+total multi counts = 561521
+total means = 9535
+after normalization total means = 0.9999999999999889
+2/3
+num of multi reads = 654218
+total multi counts = 561521
+total multi counts = 561521
+total means = 9534
+after normalization total means = 0.999999999999997
+alpha = 3.703913451940062.
+ Performing a stabilization step.
+num of multi reads = 654218
+total multi counts = 561520
+total multi counts = 561520
+total means = 9531
+after normalization total means = 0.999999999999974
+alpha = 3.703913451940062, SQUAREM iteraton [6]
+1/3
+num of multi reads = 654218
+total multi counts = 561521
+total multi counts = 561521
+total means = 9531
+after normalization total means = 0.9999999999999766
+2/3
+num of multi reads = 654218
+total multi counts = 561520
+total multi counts = 561520
+total means = 9531
+after normalization total means = 0.9999999999999903
+alpha = 4.0.
+ Performing a stabilization step.
+num of multi reads = 654218
+total multi counts = 561521
+total multi counts = 561521
+total means = 9529
+after normalization total means = 1.000000000000013
+alpha = 4.0, SQUAREM iteraton [7]
+1/3
+num of multi reads = 654218
+total multi counts = 561520
+total multi counts = 561520
+total means = 9529
+after normalization total means = 0.9999999999999756
+2/3
+num of multi reads = 654218
+total multi counts = 561521
+total multi counts = 561521
+total means = 9529
+after normalization total means = 1.0000000000000122
+rNome = OPT_TOL 
+converge at iteration 7
+num of multi reads = 654218
+total multi counts = 561520
+TE counts total 6203637.999999393 
+Gene counts total 26173104.380254224 
+
+In library /broad/blainey_lab_storage/MN/cancer_te_manuscript/20170912_DJ_OCI-Ly1_RNA_Seq/STAR_output/OCI-Ly1_DMSO_rep3_Aligned.out.bam: 
+Total annotated reads = 32376742 
+Total non-uniquely mapped reads = 5023077 
+Total unannotated reads = 4091375 
+
+INFO  @ Tue, 27 Feb 2024 00:29:59: Finished processing sample files 
+INFO  @ Tue, 27 Feb 2024 00:29:59: Generating counts table 
+INFO  @ Tue, 27 Feb 2024 00:30:00: Performing differential analysis ...
+ 
+estimating size factors
+estimating dispersions
+gene-wise dispersion estimates
+mean-dispersion relationship
+final dispersion estimates
+fitting model and testing
+INFO  @ Tue, 27 Feb 2024 00:30:43: Done 
+ 
