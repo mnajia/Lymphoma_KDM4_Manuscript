@@ -1,0 +1,13 @@
+{
+	"n_targets": 41970,
+	"n_bootstraps": 0,
+	"n_processed": 28489224,
+	"n_pseudoaligned": 17579732,
+	"n_unique": 10014776,
+	"p_pseudoaligned": 61.7,
+	"p_unique": 35.2,
+	"kallisto_version": "0.46.0",
+	"index_version": 10,
+	"start_time": "Thu May 23 20:57:28 2024",
+	"call": "kallisto quant -i /broad/blainey_lab/Mo/genomes/kallisto_index_hg19/kallisto_index_hg19.idx -o /broad/blainey_lab_storage/MN/cancer_te_manuscript/20170912_DJ_OCI-Ly1_RNA_Seq/kallisto_output/OCI-Ly1_DMSO_rep2/KALLISTO /broad/blainey_lab_storage/MN/cancer_te_manuscript/20170912_DJ_OCI-Ly1_RNA_Seq/fastq/OCI-Ly1_DMSO_Rep2_R1.fastq.gz /broad/blainey_lab_storage/MN/cancer_te_manuscript/20170912_DJ_OCI-Ly1_RNA_Seq/fastq/OCI-Ly1_DMSO_Rep2_R2.fastq.gz"
+}

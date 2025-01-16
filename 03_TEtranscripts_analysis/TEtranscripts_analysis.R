@@ -57,7 +57,7 @@ gg1 <- ggplot(df.te, aes(x = log2FoldChange, y = nlogFDR, color = DEG, labels = 
                   aes(log2FoldChange,nlogFDR,label=V1))
 
 # TMD8 cells
-fn <- paste0(projectdir, "/TEtranscripts_output_HBL-1/JIB04_150nM_v_DMSO_TE_analysis.txt")
+fn <- paste0(projectdir, "/TEtranscripts_output_TMD8/JIB04_150nM_v_DMSO_TE_analysis.txt")
 df.te <- fread(fn, data.table = FALSE)
 
 df.te$nlogFDR <- -1*log10(df.te$padj)
@@ -151,7 +151,7 @@ p1 <- ggplot(df.degs, aes(x = as.factor(Var2),
 
 
 # TMD8 cells
-fn <- paste0(projectdir, "/TEtranscripts_output_HBL-1/JIB04_500nM_v_DMSO_TE_analysis.txt")
+fn <- paste0(projectdir, "/TEtranscripts_output_TMD8/JIB04_500nM_v_DMSO_TE_analysis.txt")
 df.te <- fread(fn, data.table = FALSE)
 
 df.te$nlogFDR <- -1*log10(df.te$padj)
