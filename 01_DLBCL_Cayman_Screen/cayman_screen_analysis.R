@@ -6,6 +6,7 @@ library(data.table)
 library(dplyr)
 library(ggplot2)
 library(ggrepel)
+library(RColorBrewer)
 library(patchwork)
 library(ComplexHeatmap)
 
@@ -352,7 +353,7 @@ df <- df[,c("Ly1_1uM", "Ly1_500nM", "Ly1_100nM", "HBL1_1uM", "HBL1_500nM", "HBL1
 
 
 column_ha <- HeatmapAnnotation(Dose = factor(rep(c("1000 nM", "500 nM", "100 nM"),2), levels = c("1000 nM", "500 nM", "100 nM")),
-                               col = list(Dose = c("1000 nM" = "#de1705", "500 nM" = "#865160", "100 nM" = "#3b82ae")),
+                               col = list(Dose = c("1000 nM" = "#b6bb69", "500 nM" = "#7ebb8d", "100 nM" = "#70b69e")),
                                border = TRUE)
 
 row_anno <- rowAnnotation(Class = c("SAH Hydrolase inhibitor",
@@ -398,7 +399,7 @@ row_anno <- rowAnnotation(Class = c("SAH Hydrolase inhibitor",
                           border = TRUE)
 
 hm <- Heatmap(df,
-        col = circlize::colorRamp2(c(0,1), c("white", "blue")),
+        col = pals::warmcool(100), #circlize::colorRamp2(c(0,1), c("white", "blue")),
         cluster_columns = FALSE, 
         cluster_rows = TRUE,
         show_row_dend = FALSE,
@@ -421,7 +422,7 @@ molgroup <- factor(molgroup, levels = c("Control", "Hit: Both", "Hit: HBL-1 only
 
 
 hm2 <- Heatmap(df,
-        col = circlize::colorRamp2(c(0,1), c("white", "blue")),
+        col = circlize::colorRamp2(c(0,0.5,1), c("#B40426", "#DEDCDB", "#3B4CC0")),
         cluster_columns = FALSE, 
         cluster_rows = FALSE,
         show_row_dend = FALSE,
